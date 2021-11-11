@@ -1,4 +1,6 @@
-# Harvest Time - Web Scraper for websites with authentication
+# Harvest Time - A web Scraper for websites with authentication
+
+
 
 ![Harvest Logo](https://user-images.githubusercontent.com/64712227/141352718-ac2ddea4-41fb-4a65-b0ec-1ef223d929ef.png)
 
