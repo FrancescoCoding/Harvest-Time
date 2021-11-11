@@ -10,7 +10,7 @@ Puppeteer drives headless Chrome over the DevTools Protocol, allowing you to bui
 
 ## Why create this?
 I wanted to work with all the dates and information contained in my university Timetable.  
-You cannot simply give a URL to a scraper if the content is protected by a login page, and I wanted to do this directly from my code. That is where Puppeteer comes in.
+You cannot simply give a URL to a scraper if the content is protected by a login page, and I wanted to pass the login directly from my code. That is where Puppeteer comes in.
 
 # Usage
 #### To run this project on your local machine, run the command below to install all the dependencies:
