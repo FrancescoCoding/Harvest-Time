@@ -1,4 +1,4 @@
-# Harvest Time
+# Harvest Time - Web Scraper for websites with authentication
 
 ![Harvest Logo](https://user-images.githubusercontent.com/64712227/141352718-ac2ddea4-41fb-4a65-b0ec-1ef223d929ef.png)
 > I generated Harvest Time's logo for fun with a neural network combination of VQGAN + CLIP. [Evolution >](https://files.catbox.moe/6p4sp5.mp4).
