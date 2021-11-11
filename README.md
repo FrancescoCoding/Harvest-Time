@@ -48,7 +48,7 @@ You can now play with the DOM of the requested page, and select its elements, wi
    ![image](https://user-images.githubusercontent.com/64712227/141345782-66792ab8-6bec-4f62-b188-9e7ec8b3c947.png)
    
 ### Generating PNG or PDF page snapshot
-The function generates a page snapshot automatically (.png 1080p) and can also generate a pdf easily.
+The function generates a page snapshot automatically (.png 1080p) and can also generate a pdf easily.  
 All you have to do is passing ```createPdf = true``` or ```createPng = true``` to the function.
 The files will be saved in the root directory.
 
