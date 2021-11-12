@@ -31,12 +31,15 @@ You need a few things to get past the login of the page you are scraping from:
     ![image](https://user-images.githubusercontent.com/64712227/141340395-e5517a0a-bad1-4502-96b9-62c54c40b61a.png)
 
   - You will also need to indicate the page's login input elements (username and password input fields) and the login button.
+
+    ![image](https://user-images.githubusercontent.com/64712227/141343032-cd926412-ae85-4553-8241-84ff9d1b7684.png)
+    
     - Ideally you want to give it a JavaScript DOM selector.
     - These will be filled out and requested directly by the function.
     - For example, if the name input of the page has a name **class**, you would simply specify **".name"**, if you only have an **ID**, this is the syntax: **"#name"**.
     - You can find this information direcly in the Chrome developer tools:
 
-    ![image](https://user-images.githubusercontent.com/64712227/141344307-f1f061ba-f3d6-4a07-b5cf-8de0fae85497.png) ![image](https://user-images.githubusercontent.com/64712227/141343032-cd926412-ae85-4553-8241-84ff9d1b7684.png)
+    ![image](https://user-images.githubusercontent.com/64712227/141344307-f1f061ba-f3d6-4a07-b5cf-8de0fae85497.png) 
 
 ### Changing the server port:
 Change the server port to your liking (I was using port 8000).
@@ -51,7 +54,7 @@ You can now play with the DOM of the requested page, and select its elements, wi
    
 ### Generating PNG or PDF page snapshot
 The function generates a page snapshot automatically (.png 1080p) and can also generate a pdf easily.  
-All you have to do is passing ```createPdf = true``` or ```createPng = true``` to the function.
+All you have to do is to pass ```createPdf = true``` or ```createPng = true``` to the function.
 The files will be saved in the root directory.
 
 # Improvements
