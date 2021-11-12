@@ -30,7 +30,7 @@ You need a few things to get past the login of the page you are scraping from:
     
     ![image](https://user-images.githubusercontent.com/64712227/141340395-e5517a0a-bad1-4502-96b9-62c54c40b61a.png)
 
-    - You will also need to indicate the page's login input elements (username and password input fields) and the login button.
+  - You will also need to indicate the page's login input elements (username and password input fields) and the login button.
     - Ideally you want to give it a JavaScript DOM selector.
     - These will be filled out and requested directly by the function.
     - For example, if the name input of the page has a name **class**, you would simply specify **".name"**, if you only have an **ID**, this is the syntax: **"#name"**.
