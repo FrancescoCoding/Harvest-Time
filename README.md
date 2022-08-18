@@ -3,7 +3,7 @@
 # Harvest Time - Node Web Scraper
 > I generated Harvest Time's logo for fun with a neural network combination of VQGAN + CLIP. [Evolution >](https://files.catbox.moe/6p4sp5.mp4).
   
-This is a Node application that uses Puppeteer to scrape information from websites.   
+This is a small Node application that uses Puppeteer to scrape information from websites.   
 Puppeteer drives headless Chrome over the DevTools Protocol, allowing you to build robust, high-quality scrapers and obtain information from websites protected by giving credentials for user login directly to the code.
 
 ### Harvest Time is a Node-based web scraper that utilizes [Puppeteer](https://github.com/puppeteer/puppeteer) to get past the login page directly from the Node environment, and obtain its data.
