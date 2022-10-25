@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
-    "plant": "nodemon Common-Plant-Names-Scraper.js"
+    "start": "nodemon Common-Plant-Names-Scraper.js"
   },
   "author": "",
   "license": "ISC",
