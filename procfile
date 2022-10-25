@@ -1,1 +1,1 @@
-web: nodemon Common-Plant-Names-Scraper-js
+web: node Common-Plant-Names-Scraper-js
