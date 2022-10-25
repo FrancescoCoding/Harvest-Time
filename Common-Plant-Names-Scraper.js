@@ -11,7 +11,7 @@ const harvestTime = async () => {
   const targetUrl =
     "https://en.wikipedia.org/wiki/List_of_plants_by_common_name";
   const browser = await puppeteer.launch({
-    headless: true,
+    headless: false,
     timeout: 100000,
     slowMo: 30,
   });
@@ -43,7 +43,8 @@ const harvestTime = async () => {
         // for each item take the text before - or – or \n and save it in an array
         if (
           li.innerText !== "Historical Common Names of Great Plains Plants" &&
-          li.innerText !== "USDA PLANTS Database"
+          li.innerText !== "USDA PLANTS Database" &&
+          li.innerText !== "Lists of plants"
         ) {
           if (li.innerText.includes("(True) cinnamon")) {
             items.push("Cinnamon");
