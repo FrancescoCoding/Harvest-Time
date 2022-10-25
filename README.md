@@ -1,9 +1,9 @@
 ![Harvest Logo](https://user-images.githubusercontent.com/64712227/141352718-ac2ddea4-41fb-4a65-b0ec-1ef223d929ef.png)
 
-# Harvest Time - Node Web Scraper
+# Harvest Time 🌽 - Node Web Scraper
 > I generated Harvest Time's logo for fun with a neural network combination of VQGAN + CLIP. [Evolution >](https://files.catbox.moe/6p4sp5.mp4).
   
-This is a Node application that uses Puppeteer to scrape information from websites.   
+This is a small Node application that uses Puppeteer to scrape information from websites.   
 Puppeteer drives headless Chrome over the DevTools Protocol, allowing you to build robust, high-quality scrapers and obtain information from websites protected by giving credentials for user login directly to the code.
 
 ### Harvest Time is a Node-based web scraper that utilizes [Puppeteer](https://github.com/puppeteer/puppeteer) to get past the login page directly from the Node environment, and obtain its data.
@@ -15,12 +15,12 @@ I wanted to work with all the dates and information contained in my university T
 You cannot simply give a URL to a scraper if the content is protected by a login page, and I wanted to pass the login directly from my code. That is where Puppeteer comes in.
 
 # Usage
-#### To run this project on your local machine, run the command below to install all the dependencies:
+#### 1. To run this project on your local machine, run the command below to install all the dependencies:
+```bash
+npm i
+```
 
-### `npm i`
-
-### Run the server:
-
+#### 2. Run the server:
 ```bash
 npm run start
 ```
