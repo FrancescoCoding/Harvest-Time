@@ -1,0 +1,4804 @@
+[
+  {
+    "title": "The 7th Guest",
+    "genre": "Interactive movie, adventure, puzzle supernatural",
+    "developerPublisher": "Trilobyte",
+    "platform": "MS-DOS, Windows, CD-i, OS X, iOS",
+    "releaseDate": "1993-04"
+  },
+  {
+    "title": "The 11th Hour",
+    "genre": "Adventure, puzzle, supernatural",
+    "developerPublisher": "Trilobyte",
+    "platform": "MS-DOS, Windows, Macintosh",
+    "releaseDate": "1995-12-13"
+  },
+  {
+    "title": "1916: Der Unbekannte Krieg",
+    "genre": "First-person shooter, psychological horror",
+    "developerPublisher": "DADIU Team 2",
+    "platform": "Windows, OS X, Browser",
+    "releaseDate": "2011-03-28"
+  },
+  {
+    "title": "2Dark",
+    "genre": "Survival horror",
+    "developerPublisher": "Gloomywood",
+    "platform": "Windows, PlayStation 4, Xbox One",
+    "releaseDate": "2017-03-10"
+  },
+  {
+    "title": "3D Monster Maze",
+    "genre": "Adventure",
+    "developerPublisher": "Malcolm Evans",
+    "platform": "ZX81",
+    "releaseDate": "1982"
+  },
+  {
+    "title": "7 Days to Die",
+    "genre": "Survival, open world",
+    "developerPublisher": "The Fun Pimps",
+    "platform": "Windows",
+    "releaseDate": "2013-12-13"
+  },
+  {
+    "title": "13 WOOD ST",
+    "genre": "Adventure",
+    "developerPublisher": "SE {} KS",
+    "platform": "Windows",
+    "releaseDate": "2021-10-01"
+  },
+  {
+    "title": "After Dark DLX",
+    "genre": "Rail shooter",
+    "developerPublisher": "Universal Space",
+    "platform": "Arcade",
+    "releaseDate": "2013"
+  },
+  {
+    "title": "Afterfall: Insanity",
+    "genre": "Post-apocalyptic, survival horror",
+    "developerPublisher": "Intoxicate Studios",
+    "platform": "Windows",
+    "releaseDate": "2011"
+  },
+  {
+    "title": "Afterfall: Reconquest",
+    "genre": "Post-apocalyptic, survival horror",
+    "developerPublisher": "Intoxicate Studios",
+    "platform": "Windows",
+    "releaseDate": "2015"
+  },
+  {
+    "title": "Alien Demon",
+    "genre": "Survival horror",
+    "developerPublisher": "K-Tel",
+    "platform": "VIC-20",
+    "releaseDate": "1983"
+  },
+  {
+    "title": "Alien",
+    "genre": "Survival horror",
+    "developerPublisher": "Argus Press Software Ltd.",
+    "platform": "Commodore 64",
+    "releaseDate": "1984"
+  },
+  {
+    "title": "Aliens: The Computer Game",
+    "genre": "First-person shooter",
+    "developerPublisher": "Software Studios",
+    "platform": "Commodore 64",
+    "releaseDate": "1986"
+  },
+  {
+    "title": "Aliens",
+    "genre": "Shoot 'em up",
+    "developerPublisher": "Konami",
+    "platform": "Arcade",
+    "releaseDate": "1990"
+  },
+  {
+    "title": "Alien³",
+    "genre": "Shoot 'em up, platform",
+    "developerPublisher": "Bits Studios (Game Boy), Spearsoft (SNES), Probe Software",
+    "platform": "Amiga, Commodore 64, Game Boy, NES, Master System, SNES, Sega Genesis",
+    "releaseDate": "1993"
+  },
+  {
+    "title": "Alien³ - The Gun",
+    "genre": "Rail shooter",
+    "developerPublisher": "Sega",
+    "platform": "Arcade",
+    "releaseDate": "1993"
+  },
+  {
+    "title": "Alien vs Predator",
+    "genre": "First-person shooter",
+    "developerPublisher": "Rebellion Developments",
+    "platform": "Atari Jaguar",
+    "releaseDate": "1994-08-21"
+  },
+  {
+    "title": "Aliens versus Predator",
+    "genre": "First-person shooter",
+    "developerPublisher": "Rebellion Developments",
+    "platform": "Windows",
+    "releaseDate": "1999-04-30"
+  },
+  {
+    "title": "Aliens versus Predator 2",
+    "genre": "First-person shooter",
+    "developerPublisher": "Monolith Productions",
+    "platform": "Windows",
+    "releaseDate": "2001-10-22"
+  },
+  {
+    "title": "Aliens vs Predator",
+    "genre": "First-person shooter",
+    "developerPublisher": "Rebellion Developments",
+    "platform": "Windows, PlayStation 3, Xbox 360",
+    "releaseDate": "2010-02-16"
+  },
+  {
+    "title": "Alien: Resurrection",
+    "genre": "First-person shooter",
+    "developerPublisher": "Argonaut Software",
+    "platform": "PlayStation (console)",
+    "releaseDate": "2000-10-10"
+  },
+  {
+    "title": "Alien: Isolation",
+    "genre": "Survival horror, action-adventure, stealth, first-person shooter, science fiction",
+    "developerPublisher": "The Creative Assembly",
+    "platform": "Windows, PlayStation 3, PlayStation 4, Xbox One, Xbox 360",
+    "releaseDate": "2014-10-07"
+  },
+  {
+    "title": "Alien: Blackout",
+    "genre": "Action-adventure, stealth",
+    "developerPublisher": "D3 Go!",
+    "platform": "iOS",
+    "releaseDate": "2019-01-24"
+  },
+  {
+    "title": "Aliens: Colonial Marines",
+    "genre": "First-person shooter",
+    "developerPublisher": "Sega",
+    "platform": "Windows, PlayStation 3, Xbox 360",
+    "releaseDate": "2013-02-12"
+  },
+  {
+    "title": "Aliens: Thanatos Encounter",
+    "genre": "Action-adventure",
+    "developerPublisher": "Wicked Witch Software",
+    "platform": "Game Boy Color",
+    "releaseDate": "2001-03-22"
+  },
+  {
+    "title": "Alien Breed",
+    "genre": "Run and gun, top-down shooter",
+    "developerPublisher": "Team17",
+    "platform": "Amiga",
+    "releaseDate": "1991"
+  },
+  {
+    "title": "Alien Breed II: The Horror Continues",
+    "genre": "Run and gun, top-down shooter",
+    "developerPublisher": "Team17",
+    "platform": "Amiga",
+    "releaseDate": "1993"
+  },
+  {
+    "title": "Alien Breed: Tower Assault",
+    "genre": "Run and gun, top-down shooter, open world",
+    "developerPublisher": "Team17",
+    "platform": "Amiga",
+    "releaseDate": "1994"
+  },
+  {
+    "title": "Alien Syndrome",
+    "genre": "Run and gun",
+    "developerPublisher": "Sega",
+    "platform": "Arcade",
+    "releaseDate": "1987"
+  },
+  {
+    "title": "Alien Syndrome",
+    "genre": "Run and gun, action role-playing",
+    "developerPublisher": "Totally Games",
+    "platform": "Wii",
+    "releaseDate": "2007"
+  },
+  {
+    "title": "Akai Ito",
+    "genre": "Adventure",
+    "developerPublisher": "Success Corporation",
+    "platform": "PlayStation 2",
+    "releaseDate": "2004-10-21"
+  },
+  {
+    "title": "Alan Wake",
+    "genre": "Psychological horror, survival horror",
+    "developerPublisher": "Remedy Entertainment",
+    "platform": "Windows, Xbox 360",
+    "releaseDate": "2010-05-14"
+  },
+  {
+    "title": "Alan Wake's American Nightmare",
+    "genre": "Psychological horror, survival horror",
+    "developerPublisher": "Remedy Entertainment",
+    "platform": "Windows, Xbox 360",
+    "releaseDate": "2012-02-21"
+  },
+  {
+    "title": "Alan Wake 2",
+    "genre": "Psychological horror, survival horror",
+    "developerPublisher": "Remedy Entertainment",
+    "platform": "PlayStation 5, Windows, Xbox Series X/S",
+    "releaseDate": "2023-10-27"
+  },
+  {
+    "title": "American McGee's Alice",
+    "genre": "Action-adventure",
+    "developerPublisher": "Rogue Entertainment",
+    "platform": "Windows, OS X, Xbox 360, PlayStation 3",
+    "releaseDate": "2000-12-05"
+  },
+  {
+    "title": "Alice: Madness Returns",
+    "genre": "Action-adventure",
+    "developerPublisher": "Spicy Horse",
+    "platform": "Windows, PlayStation 3, Xbox 360",
+    "releaseDate": "2011-06-14"
+  },
+  {
+    "title": "Alone in the Dark",
+    "genre": "Survival horror, action adventure, cosmic horror",
+    "developerPublisher": "Infogrames",
+    "platform": "MS-DOS, PC-98, FM Towns, 3DO, OS X, RISC OS, iOS",
+    "releaseDate": "1992"
+  },
+  {
+    "title": "Alone in the Dark 2",
+    "genre": "Survival horror, action adventure",
+    "developerPublisher": "Infogrames",
+    "platform": "MS-DOS, PC-98, FM Towns, 3DO, OS X, Sega Saturn, PlayStation",
+    "releaseDate": "1993"
+  },
+  {
+    "title": "Alone in the Dark 3",
+    "genre": "Action-adventure",
+    "developerPublisher": "Infogrames",
+    "platform": "MS-DOS, PC-98, Windows 95, OS X",
+    "releaseDate": "1994"
+  },
+  {
+    "title": "Alone in the Dark: The New Nightmare",
+    "genre": "Survival horror, action adventure, cosmic horror",
+    "developerPublisher": "Darkworks",
+    "platform": "PlayStation, Game Boy Color, Windows, Dreamcast, PlayStation 2",
+    "releaseDate": "2001-05-18"
+  },
+  {
+    "title": "Alone in the Dark",
+    "genre": "Survival horror, action adventure, first-person shooter",
+    "developerPublisher": "Eden Games",
+    "platform": "Windows, PlayStation 3, PlayStation 2, Wii, Xbox 360",
+    "releaseDate": "2008-06-20"
+  },
+  {
+    "title": "Alone in the Dark: Illumination",
+    "genre": "Third-person shooter",
+    "developerPublisher": "Pure FPS",
+    "platform": "Windows",
+    "releaseDate": "2015-06-11"
+  },
+  {
+    "title": "Amanda the Adventurer",
+    "genre": "Open world, found footage",
+    "developerPublisher": "DreadXP",
+    "platform": "Windows",
+    "releaseDate": "2023-04-25"
+  },
+  {
+    "title": "Amnesia: The Dark Descent",
+    "genre": "Adventure, psychological horror, cosmic horror",
+    "developerPublisher": "Frictional Games",
+    "platform": "Linux, OS X, Windows",
+    "releaseDate": "2010-09-22"
+  },
+  {
+    "title": "Amnesia: A Machine for Pigs",
+    "genre": "Adventure, psychological horror, cosmic horror",
+    "developerPublisher": "The Chinese Room",
+    "platform": "Linux, OS X, Windows",
+    "releaseDate": "2013-09-10"
+  },
+  {
+    "title": "Amnesia: Rebirth",
+    "genre": "Adventure, psychological horror, cosmic horror, survival horror",
+    "developerPublisher": "Frictional Games",
+    "platform": "Linux, Windows, PlayStation 4",
+    "releaseDate": "2020-10-20"
+  },
+  {
+    "title": "Akolyta",
+    "genre": "Adventure",
+    "developerPublisher": "Pterosoft studio",
+    "platform": "Linux, OS X, Windows",
+    "releaseDate": "TBA"
+  },
+  {
+    "title": "Among the Sleep",
+    "genre": "Adventure, psychological horror",
+    "developerPublisher": "Krillbite Studio",
+    "platform": "Linux, OS X, Windows, PlayStation 4",
+    "releaseDate": "2014-05-29"
+  },
+  {
+    "title": "Amy",
+    "genre": "Survival horror, stealth",
+    "developerPublisher": "VectorCell",
+    "platform": "PlayStation 3, Xbox 360",
+    "releaseDate": "2012-01-11"
+  },
+  {
+    "title": "Anchorhead",
+    "genre": "Interactive fiction, cosmic horror",
+    "developerPublisher": "Michael S. Gentry",
+    "platform": "MS-DOS",
+    "releaseDate": "1998"
+  },
+  {
+    "title": "Anna",
+    "genre": "Adventure, puzzle",
+    "developerPublisher": "Dreampainters Software",
+    "platform": "Windows, PlayStation 3, Xbox 360",
+    "releaseDate": "2012"
+  },
+  {
+    "title": "Area 51",
+    "genre": "First-person shooter",
+    "developerPublisher": "Midway Austin",
+    "platform": "Windows, PlayStation 2, Xbox",
+    "releaseDate": "2005-05-25"
+  },
+  {
+    "title": "Araya",
+    "genre": "Adventure",
+    "developerPublisher": "MAD Virtual Reality Studio",
+    "platform": "Windows",
+    "releaseDate": "2016-11-24"
+  },
+  {
+    "title": "Asylum",
+    "genre": "Survival horror",
+    "developerPublisher": "Med Systems",
+    "platform": "TRS-80, Apple II",
+    "releaseDate": "1981"
+  },
+  {
+    "title": "Atic Atac",
+    "genre": "Adventure",
+    "developerPublisher": "Tim and Chris Stamper",
+    "platform": "ZX Spectrum, BBC Micro",
+    "releaseDate": "1983"
+  },
+  {
+    "title": "Atomic Heart",
+    "genre": "First-person shooter, alternate history",
+    "developerPublisher": "Mundfish",
+    "platform": "Windows",
+    "releaseDate": "TBD"
+  },
+  {
+    "title": "Ao Oni",
+    "genre": "Adventure",
+    "developerPublisher": "noprops",
+    "platform": "Windows",
+    "releaseDate": "2008-11"
+  },
+  {
+    "title": "Aya",
+    "genre": "Adventure",
+    "developerPublisher": "Pine Entertainment",
+    "platform": "iOS",
+    "releaseDate": "2015"
+  },
+  {
+    "title": "Ayumi",
+    "genre": "Adventure",
+    "developerPublisher": "Lord Rutsah",
+    "platform": "Windows",
+    "releaseDate": "2016"
+  },
+  {
+    "title": "Babysitter Bloodbath",
+    "genre": "Survival horror",
+    "developerPublisher": "Puppet Combo",
+    "platform": "Windows",
+    "releaseDate": "2013"
+  },
+  {
+    "title": "Back in 1995",
+    "genre": "Survival horror",
+    "developerPublisher": "Throw the Warped Code Out",
+    "platform": "Windows",
+    "releaseDate": "2016-04-28"
+  },
+  {
+    "title": "Bad Day on the Midway",
+    "genre": "Adventure, puzzle",
+    "developerPublisher": "inSCAPE",
+    "platform": "Windows, Mac",
+    "releaseDate": "1995-10-31"
+  },
+  {
+    "title": "Bad Mojo",
+    "genre": "Adventure, puzzle",
+    "developerPublisher": "Pulse Entertainment",
+    "platform": "Windows",
+    "releaseDate": "1996"
+  },
+  {
+    "title": "Baldi's Basics in Education and Learning",
+    "genre": "Survival horror, educational, parody",
+    "developerPublisher": "Basically, Games!",
+    "platform": "Windows, macOS, Linux, Android, iOS",
+    "releaseDate": "2018"
+  },
+  {
+    "title": "Banned Memories: Yamanashi",
+    "genre": "Survival horror",
+    "developerPublisher": "Noah Pauw",
+    "platform": "Windows",
+    "releaseDate": "2019"
+  },
+  {
+    "title": "Barrow Hill: Curse of the Ancient Circle",
+    "genre": "Adventure, puzzle",
+    "developerPublisher": "Shadow Tor Studios",
+    "platform": "Windows",
+    "releaseDate": "2006-04-16"
+  },
+  {
+    "title": "The Beast Inside",
+    "genre": "Psychological horror",
+    "developerPublisher": "Illusion Ray",
+    "platform": "Windows",
+    "releaseDate": "2019-10-17"
+  },
+  {
+    "title": "Bendy and the Ink Machine",
+    "genre": "Survival horror, action adventure",
+    "developerPublisher": "Kindly Beast",
+    "platform": "Windows, OS X, Linux",
+    "releaseDate": "2017-02-10"
+  },
+  {
+    "title": "Bendy and the Dark Revival",
+    "genre": "Survival horror, action adventure",
+    "developerPublisher": "Kindly Beast",
+    "platform": "Windows",
+    "releaseDate": "2022-11-15"
+  },
+  {
+    "title": "Bible Black",
+    "genre": "Visual novel",
+    "developerPublisher": "Eroge, ActiveSoft",
+    "platform": "Windows",
+    "releaseDate": "2000-07-14"
+  },
+  {
+    "title": "BioForge",
+    "genre": "Action-adventure, science fiction",
+    "developerPublisher": "Origin Systems",
+    "platform": "Windows, MS-MS-DOS",
+    "releaseDate": "1995"
+  },
+  {
+    "title": "BioShock",
+    "genre": "First-person shooter, Immersive sim, science fiction",
+    "developerPublisher": "Irrational Games",
+    "platform": "Windows, Xbox 360, PlayStation 3, OS X, iOS",
+    "releaseDate": "2007"
+  },
+  {
+    "title": "The Blackout Club",
+    "genre": "Survival horror, Immersive sim",
+    "developerPublisher": "Question",
+    "platform": "Windows",
+    "releaseDate": "2018-10-30"
+  },
+  {
+    "title": "BlackSoul",
+    "genre": "Survival horror",
+    "developerPublisher": "XeniosVision",
+    "platform": "Windows",
+    "releaseDate": "2013"
+  },
+  {
+    "title": "The Black Mirror I: Death's Messenger",
+    "genre": "Point-and-click",
+    "developerPublisher": "Future Games",
+    "platform": "Windows",
+    "releaseDate": "2003-02"
+  },
+  {
+    "title": "The Black Mirror II: Reigning Evil",
+    "genre": "Point-and-click",
+    "developerPublisher": "Cranberry Production GmbH",
+    "platform": "Windows",
+    "releaseDate": "2009"
+  },
+  {
+    "title": "The Black Mirror III: Final Fear",
+    "genre": "Point-and-click",
+    "developerPublisher": "Cranberry Production GmbH",
+    "platform": "Windows",
+    "releaseDate": "2011"
+  },
+  {
+    "title": "Blair Witch Volume 1: Rustin Parr",
+    "genre": "Survival horror, action adventure, psychological horror",
+    "developerPublisher": "Terminal Reality",
+    "platform": "Windows",
+    "releaseDate": "2000-10-03"
+  },
+  {
+    "title": "Blair Witch Volume 2: The Legend of Coffin Rock",
+    "genre": "Survival horror, action adventure, psychological horror",
+    "developerPublisher": "Human Head Studios",
+    "platform": "Windows",
+    "releaseDate": "2000-10-25"
+  },
+  {
+    "title": "Blair Witch Volume 3: The Elly Kedward Tale",
+    "genre": "Survival horror, action adventure, psychological horror",
+    "developerPublisher": "Ritual Entertainment",
+    "platform": "Windows",
+    "releaseDate": "2000-11-21"
+  },
+  {
+    "title": "Blair Witch",
+    "genre": "Walking simulator",
+    "developerPublisher": "Bloober Team",
+    "platform": "Windows",
+    "releaseDate": "2019-08-30"
+  },
+  {
+    "title": "Blood",
+    "genre": "First-person shooter",
+    "developerPublisher": "3D Realms, Monolith Productions",
+    "platform": "MS-DOS",
+    "releaseDate": "1997-06-20"
+  },
+  {
+    "title": "Blood II: The Chosen",
+    "genre": "First-person shooter",
+    "developerPublisher": "Monolith Productions",
+    "platform": "PC, Windows",
+    "releaseDate": "1998-10-31"
+  },
+  {
+    "title": "BloodRayne",
+    "genre": "Action-adventure, hack and slash",
+    "developerPublisher": "Terminal Reality",
+    "platform": "Windows, OS X, GameCube, PlayStation 2, Xbox",
+    "releaseDate": "2002-10-15"
+  },
+  {
+    "title": "BloodRayne 2",
+    "genre": "Action-adventure, hack and slash",
+    "developerPublisher": "Terminal Reality",
+    "platform": "Windows, PlayStation 2, Xbox",
+    "releaseDate": "2004-10-12"
+  },
+  {
+    "title": "BloodRayne: Betrayal",
+    "genre": "Action game, hack and slash, platform",
+    "developerPublisher": "WayForward Technologies, Abstraction Games",
+    "platform": "Windows, PlayStation 3, Xbox 360",
+    "releaseDate": "2011-09-06"
+  },
+  {
+    "title": "Blue Stinger",
+    "genre": "Survival horror, action adventure",
+    "developerPublisher": "Climax Graphics",
+    "platform": "Dreamcast",
+    "releaseDate": "1999-03-25"
+  },
+  {
+    "title": "Bramble: The Mountain King",
+    "genre": "Platform, adventure, folk horror",
+    "developerPublisher": "Dimfrost Studio",
+    "platform": "Nintendo Switch, PlayStation 5, Windows, Xbox Series X/S",
+    "releaseDate": "2023-04-27"
+  },
+  {
+    "title": "Buffy the Vampire Slayer",
+    "genre": "Beat 'em up",
+    "developerPublisher": "The Collective",
+    "platform": "Xbox",
+    "releaseDate": "2002-08-18"
+  },
+  {
+    "title": "Candles",
+    "genre": "Psychological horror",
+    "developerPublisher": "Lasse Westmark Nielsen",
+    "platform": "Windows",
+    "releaseDate": "2011"
+  },
+  {
+    "title": "Call of Cthulhu",
+    "genre": "Survival horror, action role-playing, cosmic horror, psychological horror",
+    "developerPublisher": "Cyanide Studio",
+    "platform": "Windows, PlayStation 4, Xbox One, Nintendo Switch",
+    "releaseDate": "2018-10-30"
+  },
+  {
+    "title": "Call of Cthulhu: Dark Corners of the Earth",
+    "genre": "Survival horror, first-person shooter, cosmic horror, psychological horror",
+    "developerPublisher": "Headfirst Productions",
+    "platform": "Xbox, Windows",
+    "releaseDate": "2005-10-24"
+  },
+  {
+    "title": "Calling",
+    "genre": "Survival horror",
+    "developerPublisher": "Hudson Soft",
+    "platform": "Wii",
+    "releaseDate": "2009-11-19"
+  },
+  {
+    "title": "The Callisto Protocol",
+    "genre": "Survival horror",
+    "developerPublisher": "Striking Distance Studios",
+    "platform": "Windows, PlayStation 5, Xbox Series X/S",
+    "releaseDate": "2022-12-02"
+  },
+  {
+    "title": "Carrier",
+    "genre": "Survival horror",
+    "developerPublisher": "Jaleco",
+    "platform": "Dreamcast",
+    "releaseDate": "2000-01-31"
+  },
+  {
+    "title": "Carrion",
+    "genre": "Reverse horror",
+    "developerPublisher": "Phobia Game Studio",
+    "platform": "PlayStation 4, Xbox One, Windows, Linux, OS X",
+    "releaseDate": "2020"
+  },
+  {
+    "title": "Castlevania",
+    "genre": "Action-adventure, hack and slash, platform, Gothic horror",
+    "developerPublisher": "Konami",
+    "platform": "Family Computer Disk System, Nintendo Entertainment System, PlayChoice-10, Commodore 64, Amiga, MS-DOS, Windows, Game Boy Advance, AT&T Wireless mMode Network, Virtual Console",
+    "releaseDate": "1986-09-26"
+  },
+  {
+    "title": "Castlevania II: Simon's Quest",
+    "genre": "Action-adventure, hack and slash, platform, Gothic horror",
+    "developerPublisher": "Konami",
+    "platform": "Family Computer Disk System, Nintendo Entertainment System",
+    "releaseDate": "1987-06-28"
+  },
+  {
+    "title": "Castlevania III: Dracula's Curse",
+    "genre": "Action-adventure, hack and slash, platform, Gothic horror",
+    "developerPublisher": "Konami",
+    "platform": "Family Computer Disk System, Nintendo Entertainment System",
+    "releaseDate": "1989-12-22"
+  },
+  {
+    "title": "Castlevania: The Adventure",
+    "genre": "Action-adventure, hack and slash, platform, Gothic horror",
+    "developerPublisher": "Konami",
+    "platform": "Game Boy, Game Boy Color",
+    "releaseDate": "1989-12-15"
+  },
+  {
+    "title": "Super Castlevania IV",
+    "genre": "Action-adventure, hack and slash, platform, Gothic horror",
+    "developerPublisher": "Konami",
+    "platform": "Super Nintendo Entertainment System",
+    "releaseDate": "1991-10-31"
+  },
+  {
+    "title": "Castlevania 64",
+    "genre": "Action-adventure, hack and slash, Gothic horror",
+    "developerPublisher": "Konami",
+    "platform": "Nintendo 64",
+    "releaseDate": "1999-06-26"
+  },
+  {
+    "title": "Castlevania: Legacy of Darkness",
+    "genre": "Action-adventure, hack and slash, Gothic horror",
+    "developerPublisher": "Konami",
+    "platform": "Nintendo 64",
+    "releaseDate": "1999-11-30"
+  },
+  {
+    "title": "Castlevania: Lords of Shadow",
+    "genre": "Action-adventure, hack and slash, platform",
+    "developerPublisher": "MercurySteam, Kojima Productions",
+    "platform": "PlayStation 3, Xbox 360, Windows",
+    "releaseDate": "2010-10-05"
+  },
+  {
+    "title": "Castlevania: Lords of Shadow 2",
+    "genre": "Action-adventure, hack and slash, platform",
+    "developerPublisher": "MercurySteam",
+    "platform": "PlayStation 3, Xbox 360, Windows",
+    "releaseDate": "2014-02-25"
+  },
+  {
+    "title": "Chakan: The Forever Man",
+    "genre": "Action game, platform",
+    "developerPublisher": "Extended Play Productions",
+    "platform": "Sega Genesis, Game Gear",
+    "releaseDate": "1992"
+  },
+  {
+    "title": "Chaos Break",
+    "genre": "Survival horror, Third-person shooter",
+    "developerPublisher": "EON Digital Entertainment",
+    "platform": "PlayStation",
+    "releaseDate": "2000-01-27"
+  },
+  {
+    "title": "Chaos Heat",
+    "genre": "Third-person shooter",
+    "developerPublisher": "EON Digital Entertainment",
+    "platform": "Arcade",
+    "releaseDate": "1998"
+  },
+  {
+    "title": "Cayne",
+    "genre": "Adventure, point-and-click, science fiction",
+    "developerPublisher": "The Brotherhood",
+    "platform": "Windows",
+    "releaseDate": "2017-01-24"
+  },
+  {
+    "title": "Chiller",
+    "genre": "Light gun shooter",
+    "developerPublisher": "Exidy",
+    "platform": "Arcade, Nintendo Entertainment System",
+    "releaseDate": "1986"
+  },
+  {
+    "title": "Claire",
+    "genre": "Survival horror, adventure",
+    "developerPublisher": "Hailstorm Games",
+    "platform": "Windows",
+    "releaseDate": "2014"
+  },
+  {
+    "title": "Clive Barker's Jericho",
+    "genre": "First-person shooter, action game",
+    "developerPublisher": "MercurySteam",
+    "platform": "Windows, PlayStation 3, Xbox 360",
+    "releaseDate": "2007-10-23"
+  },
+  {
+    "title": "Clive Barker's Undying",
+    "genre": "First-person shooter, adventure, cosmic horror",
+    "developerPublisher": "DreamWorks Interactive, Westlake Interactive",
+    "platform": "Windows, OS X",
+    "releaseDate": "2001-02-07"
+  },
+  {
+    "title": "Clock Tower",
+    "genre": "Point-and-click adventure, adventure, stealth",
+    "developerPublisher": "Human Entertainment",
+    "platform": "Super Famicom, Windows, PlayStation, Wonderswan",
+    "releaseDate": "1995-09-14"
+  },
+  {
+    "title": "Clock Tower II",
+    "genre": "Survival horror, point-and-click adventure, stealth",
+    "developerPublisher": "Human Entertainment, ASCII Entertainment",
+    "platform": "PlayStation",
+    "releaseDate": "1996-12-13"
+  },
+  {
+    "title": "Clock Tower II: The Struggle Within",
+    "genre": "Survival horror, point-and-click adventure, stealth",
+    "developerPublisher": "Human Entertainment, Agetec Inc.",
+    "platform": "PlayStation",
+    "releaseDate": "1998-03-12"
+  },
+  {
+    "title": "Clock Tower 3",
+    "genre": "Survival horror",
+    "developerPublisher": "Capcom Production Studio 3, Sunsoft",
+    "platform": "PlayStation 2",
+    "releaseDate": "2002-12-12"
+  },
+  {
+    "title": "Clockwork - Three Tapes",
+    "genre": "First-person adventure",
+    "developerPublisher": "WIA Studio",
+    "platform": "Windows",
+    "releaseDate": "2013-03-15"
+  },
+  {
+    "title": "Cold Fear",
+    "genre": "Survival horror, Third-person shooter, Body horror",
+    "developerPublisher": "Darkworks",
+    "platform": "Windows, PlayStation 2, Xbox",
+    "releaseDate": "2005-03-15"
+  },
+  {
+    "title": "Colina: Legacy",
+    "genre": "Third-person shooter, survival horror",
+    "developerPublisher": "Chance6 Studios, LLC",
+    "platform": "Windows",
+    "releaseDate": "2018-09-13"
+  },
+  {
+    "title": "The Coma: Cutting Class",
+    "genre": "side scroller, survival horror",
+    "developerPublisher": "Devespresso Games,",
+    "platform": "Windows",
+    "releaseDate": "2015-10-19"
+  },
+  {
+    "title": "Concluse",
+    "genre": "Adventure, psychological horror",
+    "developerPublisher": "Studio Snowspot, T Allen Studios",
+    "platform": "Windows",
+    "releaseDate": "2018-06-29"
+  },
+  {
+    "title": "Condemned: Criminal Origins",
+    "genre": "Survival horror, melee",
+    "developerPublisher": "Monolith Productions",
+    "platform": "Xbox 360, Windows",
+    "releaseDate": "2005-11-15"
+  },
+  {
+    "title": "Condemned 2: Bloodshot",
+    "genre": "Survival horror, melee",
+    "developerPublisher": "Monolith Productions",
+    "platform": "PlayStation 3, Xbox 360",
+    "releaseDate": "2008-03-11"
+  },
+  {
+    "title": "The Count Lucanor",
+    "genre": "Adventure",
+    "developerPublisher": "Baroque Decay",
+    "platform": "Windows",
+    "releaseDate": "2016-03-03"
+  },
+  {
+    "title": "Corpse Party",
+    "genre": "Adventure, psychological horror",
+    "developerPublisher": "Team GrisGris",
+    "platform": "PC-98",
+    "releaseDate": "1996-04-22"
+  },
+  {
+    "title": "Corpse Party BloodCovered",
+    "genre": "Adventure, psychological horror",
+    "developerPublisher": "Team GrisGris",
+    "platform": "Windows, PlayStation Portable, iOS, Nintendo 3DS",
+    "releaseDate": "2008-03-08"
+  },
+  {
+    "title": "Corpse Party: Book of Shadows",
+    "genre": "Adventure, psychological horror",
+    "developerPublisher": "Team GrisGris",
+    "platform": "PlayStation Portable, iOS",
+    "releaseDate": "2011-09-11"
+  },
+  {
+    "title": "Corpse Party: Blood Drive",
+    "genre": "Adventure, psychological horror",
+    "developerPublisher": "Team GrisGris",
+    "platform": "PlayStation Vita",
+    "releaseDate": "2014-07-24"
+  },
+  {
+    "title": "Corridors of Genon",
+    "genre": "Adventure",
+    "developerPublisher": "Malcolm Evans, New Generation Software",
+    "platform": "ZX Spectrum",
+    "releaseDate": "1983"
+  },
+  {
+    "title": "Corridor 7: Alien Invasion",
+    "genre": "First-person shooter",
+    "developerPublisher": "Capstone Software",
+    "platform": "MS-MS-DOS",
+    "releaseDate": "1994-05-20"
+  },
+  {
+    "title": "Countdown Vampires",
+    "genre": "Survival horror",
+    "developerPublisher": "K2 LLC",
+    "platform": "PlayStation",
+    "releaseDate": "1999-12-22"
+  },
+  {
+    "title": "Crying is not Enough",
+    "genre": "Survival horror, Third-person shooter",
+    "developerPublisher": "Storyline Team",
+    "platform": "Windows",
+    "releaseDate": "2018-06-19"
+  },
+  {
+    "title": "Cry of Fear",
+    "genre": "Survival horror, first-person shooter",
+    "developerPublisher": "Team Psykskallar",
+    "platform": "Windows",
+    "releaseDate": "2013-04-25"
+  },
+  {
+    "title": "Cryostasis: Sleep of Reason",
+    "genre": "Survival horror, first-person shooter, psychological horror",
+    "developerPublisher": "Action Forms",
+    "platform": "Windows",
+    "releaseDate": "2008-12-05"
+  },
+  {
+    "title": "Cursed Mountain",
+    "genre": "Survival horror, adventure",
+    "developerPublisher": "Sporing Interactive Media",
+    "platform": "Windows, Wii",
+    "releaseDate": "2009-08-21"
+  },
+  {
+    "title": "Curse: The Eye of Isis",
+    "genre": "Survival horror",
+    "developerPublisher": "Asylum Entertainment",
+    "platform": "Xbox, Windows, PlayStation 2",
+    "releaseDate": "2003-10-21"
+  },
+  {
+    "title": "D",
+    "genre": "Puzzle Adventure",
+    "developerPublisher": "WARP",
+    "platform": "3DO, Sega Saturn, PlayStation, MS-DOS, Windows",
+    "releaseDate": "1995-04-01"
+  },
+  {
+    "title": "D2",
+    "genre": "Survival horror, action role-playing, cosmic horror",
+    "developerPublisher": "WARP",
+    "platform": "Dreamcast",
+    "releaseDate": "1999-12-23"
+  },
+  {
+    "title": "Daymare: 1998",
+    "genre": "Survival horror, Third-person shooter",
+    "developerPublisher": "Invader Studios",
+    "platform": "Windows, PlayStation 4",
+    "releaseDate": "2019"
+  },
+  {
+    "title": "Dante's Inferno",
+    "genre": "Hack and Slash, platform",
+    "developerPublisher": "Visceral Games",
+    "platform": "PlayStation 3, Xbox 360, PSP",
+    "releaseDate": "2010-02-04"
+  },
+  {
+    "title": "The Dark Eye",
+    "genre": "Point-and-click",
+    "developerPublisher": "inSCAPE",
+    "platform": "PC, Mac",
+    "releaseDate": "1995-10-31"
+  },
+  {
+    "title": "The Darkness",
+    "genre": "First-person shooter",
+    "developerPublisher": "Starbreeze Studios, 2K Games",
+    "platform": "PlayStation 3, Xbox 360",
+    "releaseDate": "2007-06-25"
+  },
+  {
+    "title": "Dark Apes: The Fate of Devolution",
+    "genre": "First-person shooter",
+    "developerPublisher": "Wolfgroup",
+    "platform": "Windows",
+    "releaseDate": "2005"
+  },
+  {
+    "title": "Dark Echo",
+    "genre": "Puzzle Adventure",
+    "developerPublisher": "RAC7 Games",
+    "platform": "Windows",
+    "releaseDate": "2015-05-11"
+  },
+  {
+    "title": "Dark Ocean",
+    "genre": "Survival horror, Third-person shooter",
+    "developerPublisher": "Dark Ocean Games",
+    "platform": "Windows",
+    "releaseDate": "2011"
+  },
+  {
+    "title": "The Dark Pictures Anthology: The Devil in Me",
+    "genre": "Interactive drama, survival horror",
+    "developerPublisher": "Supermassive Games",
+    "platform": "PlayStation 4, PlayStation 5, Windows, Xbox One, Xbox Series X/S",
+    "releaseDate": "2022-11-18"
+  },
+  {
+    "title": "The Dark Pictures Anthology: House of Ashes",
+    "genre": "Interactive drama, survival horror",
+    "developerPublisher": "Supermassive Games",
+    "platform": "PlayStation 4, PlayStation 5, Windows, Xbox One, Xbox Series X/S",
+    "releaseDate": "2021-10-22"
+  },
+  {
+    "title": "The Dark Pictures Anthology: Little Hope",
+    "genre": "Interactive drama, survival horror",
+    "developerPublisher": "Supermassive Games",
+    "platform": "PlayStation 4, Windows, Xbox One",
+    "releaseDate": "2020-10-30"
+  },
+  {
+    "title": "The Dark Pictures Anthology: Man of Medan",
+    "genre": "Interactive drama, survival horror",
+    "developerPublisher": "Supermassive Games",
+    "platform": "PlayStation 4, Windows, Xbox One",
+    "releaseDate": "2019-08-30"
+  },
+  {
+    "title": "The Dark Pictures: Switchback VR",
+    "genre": "Rail shooter",
+    "developerPublisher": "Supermassive Games",
+    "platform": "PlayStation VR2",
+    "releaseDate": "2023-03-16"
+  },
+  {
+    "title": "Dark Salvation",
+    "genre": "First-person shooter",
+    "developerPublisher": "Mangled Eye Studios",
+    "platform": "Windows, Linux, OS X",
+    "releaseDate": "2009-07-28"
+  },
+  {
+    "title": "DarkSeed",
+    "genre": "Point-and-click adventure",
+    "developerPublisher": "Cyberdreams",
+    "platform": "Amiga, Amiga CD32, MS-DOS, Macintosh, Sega Saturn, PlayStation",
+    "releaseDate": "1992"
+  },
+  {
+    "title": "Dark Seed II",
+    "genre": "Point-and-click adventure",
+    "developerPublisher": "Destiny Media Technologies",
+    "platform": "Windows, Macintosh, Sega Saturn, PlayStation",
+    "releaseDate": "1995"
+  },
+  {
+    "title": "Darkest Dungeon",
+    "genre": "Roguelite",
+    "developerPublisher": "Red Hook Studios",
+    "platform": "Windows, OS X, Linux, PlayStation 4, PlayStation Vita, iOS, Nintendo Switch, Xbox One",
+    "releaseDate": "2016"
+  },
+  {
+    "title": "Darkest Dungeon II",
+    "genre": "Action role-playing game",
+    "developerPublisher": "Red Hook Studios",
+    "platform": "Windows",
+    "releaseDate": "2023"
+  },
+  {
+    "title": "Darksiders",
+    "genre": "Hack and slash",
+    "developerPublisher": "Vigil Games",
+    "platform": "Windows, Xbox 360, PlayStation 3",
+    "releaseDate": "2010-01-05"
+  },
+  {
+    "title": "Darksiders II",
+    "genre": "Hack and slash",
+    "developerPublisher": "Vigil Games",
+    "platform": "Windows, Wii U, Xbox 360, Xbox One, PlayStation 3, PlayStation 4",
+    "releaseDate": "2012-08-14"
+  },
+  {
+    "title": "Dark Souls",
+    "genre": "Action role-playing game",
+    "developerPublisher": "FromSoftware",
+    "platform": "PlayStation 3, Xbox 360, Windows, PlayStation 4, Xbox One, Nintendo Switch",
+    "releaseDate": "2011-09-22"
+  },
+  {
+    "title": "Dark Vampires: The Shadows of Dust",
+    "genre": "First-person shooter",
+    "developerPublisher": "Wolfgroup",
+    "platform": "Windows",
+    "releaseDate": "2006"
+  },
+  {
+    "title": "Darkness Within: In Pursuit of Loath Nolder",
+    "genre": "Adventure, cosmic horror",
+    "developerPublisher": "Zoetrope Interactive",
+    "platform": "Windows",
+    "releaseDate": "2007-11-06"
+  },
+  {
+    "title": "Darkness Within 2: The Dark Lineage",
+    "genre": "Adventure, cosmic horror",
+    "developerPublisher": "Zoetrope Interactive",
+    "platform": "Windows",
+    "releaseDate": "2010-05-28"
+  },
+  {
+    "title": "Darkwatch",
+    "genre": "First-person shooter",
+    "developerPublisher": "High Moon Studios",
+    "platform": "PlayStation 2, Xbox",
+    "releaseDate": "2005-08-16"
+  },
+  {
+    "title": "Darkwood",
+    "genre": "Survival horror, top-down shooter",
+    "developerPublisher": "Acid Wizard Studio",
+    "platform": "Windows, OS X, SteamOS/Ubuntu",
+    "releaseDate": "2014-07-24"
+  },
+  {
+    "title": "Dark Fall",
+    "genre": "Adventure, psychological horror",
+    "developerPublisher": "XXv Productions",
+    "platform": "Windows",
+    "releaseDate": "2002"
+  },
+  {
+    "title": "Dark Fall II: Lights Out",
+    "genre": "Adventure, psychological horror",
+    "developerPublisher": "XXv Productions",
+    "platform": "Windows",
+    "releaseDate": "2004"
+  },
+  {
+    "title": "Dark Fall: Lost Souls",
+    "genre": "Adventure, psychological horror",
+    "developerPublisher": "Darkling Room",
+    "platform": "Windows",
+    "releaseDate": "2009"
+  },
+  {
+    "title": "Dark Fall: Ghost Vigil",
+    "genre": "Adventure, psychological horror",
+    "developerPublisher": "Darkling Room",
+    "platform": "Windows",
+    "releaseDate": "2020"
+  },
+  {
+    "title": "Darq",
+    "genre": "Puzzle-platform, psychological horror",
+    "developerPublisher": "Unfold Games",
+    "platform": "Windows",
+    "releaseDate": "2019"
+  },
+  {
+    "title": "Dawn of Fear",
+    "genre": "Survival horror",
+    "developerPublisher": "Brok3nsite",
+    "platform": "PlayStation 4, Windows",
+    "releaseDate": "2020"
+  },
+  {
+    "title": "Daylight",
+    "genre": "Adventure",
+    "developerPublisher": "Zombie Studios",
+    "platform": "PlayStation 4, Windows",
+    "releaseDate": "2014-04-29"
+  },
+  {
+    "title": "Days Gone",
+    "genre": "Action-adventure, survival horror",
+    "developerPublisher": "Bend Studio",
+    "platform": "PlayStation 4",
+    "releaseDate": "2019-04-26"
+  },
+  {
+    "title": "DayZ",
+    "genre": "Survival game, Third-person shooter, first-person shooter, open world",
+    "developerPublisher": "Bohemia Interactive",
+    "platform": "Windows",
+    "releaseDate": "2013-12-16(alpha)"
+  },
+  {
+    "title": "Dead Island",
+    "genre": "Action role-playing, action game, open world",
+    "developerPublisher": "Techland",
+    "platform": "PlayStation 3, Xbox 360, Windows, OS X, Linux",
+    "releaseDate": "2011-09-06"
+  },
+  {
+    "title": "Dead Island 2",
+    "genre": "Action role-playing, action game, open world",
+    "developerPublisher": "Dambuster Studios",
+    "platform": "Google Stadia, PlayStation 4, PlayStation 5, Windows, Xbox One, Xbox Series X/S",
+    "releaseDate": "2023-04-21"
+  },
+  {
+    "title": "Dead Island: Riptide",
+    "genre": "Action role-playing, action game",
+    "developerPublisher": "Techland",
+    "platform": "PlayStation 3, Xbox 360, Windows",
+    "releaseDate": "2013-04-23"
+  },
+  {
+    "title": "Devotion",
+    "genre": "First-person adventure, psychological horror",
+    "developerPublisher": "Red Candle Games",
+    "platform": "Windows",
+    "releaseDate": "2019-02-19"
+  },
+  {
+    "title": "Depths of Fear: Knossos",
+    "genre": "Action-adventure",
+    "developerPublisher": "Dirigo Games",
+    "platform": "Windows",
+    "releaseDate": "2014"
+  },
+  {
+    "title": "Dead by Daylight",
+    "genre": "Multiplayer action game",
+    "developerPublisher": "Behavior Interactive",
+    "platform": "PlayStation 4, Xbox One, Windows, Nintendo Switch",
+    "releaseDate": "2016-06-14"
+  },
+  {
+    "title": "Dead End Road",
+    "genre": "Driving Game",
+    "developerPublisher": "DDD Wares",
+    "platform": "Windows",
+    "releaseDate": "2016-06-08"
+  },
+  {
+    "title": "Dead Realm",
+    "genre": "First-person shooter",
+    "developerPublisher": "Section Studios",
+    "platform": "Windows, OS X",
+    "releaseDate": "2015"
+  },
+  {
+    "title": "Dead Rising",
+    "genre": "Action game, Beat 'em up, open world",
+    "developerPublisher": "Capcom",
+    "platform": "Xbox 360",
+    "releaseDate": "2006-08-08"
+  },
+  {
+    "title": "Dead Rising: Chop Till You Drop",
+    "genre": "Action game, Beat 'em up, open world",
+    "developerPublisher": "Tose Software",
+    "platform": "Wii",
+    "releaseDate": "2009-02-19"
+  },
+  {
+    "title": "Dead Rising 2: Case Zero",
+    "genre": "Action game, Beat 'em up, open world",
+    "developerPublisher": "Blue Castle Games",
+    "platform": "Xbox Live Arcade",
+    "releaseDate": "2010-08-31"
+  },
+  {
+    "title": "Dead Rising 2",
+    "genre": "Action game, Beat 'em up, open world",
+    "developerPublisher": "Blue Castle Games",
+    "platform": "PlayStation 3, Xbox 360, Windows",
+    "releaseDate": "2010-09-24"
+  },
+  {
+    "title": "Dead Rising 2: Case West",
+    "genre": "Action game, Beat 'em up, open world",
+    "developerPublisher": "Blue Castle Games",
+    "platform": "Xbox Live Arcade",
+    "releaseDate": "2010-12-27"
+  },
+  {
+    "title": "Dead Rising 2: Off the Record",
+    "genre": "Action game, Beat 'em up, open world",
+    "developerPublisher": "Capcom Vancouver",
+    "platform": "PlayStation 3, Xbox 360, Windows",
+    "releaseDate": "2011-10-11"
+  },
+  {
+    "title": "Dead Space",
+    "genre": "Survival horror, Third-person shooter, science fiction, Body horror",
+    "developerPublisher": "Visceral Games",
+    "platform": "PlayStation 3, Xbox 360, Windows",
+    "releaseDate": "2008-10-13"
+  },
+  {
+    "title": "Dead Space 2",
+    "genre": "Third-person shooter, survival horror, science fiction, Body horror",
+    "developerPublisher": "Visceral Games",
+    "platform": "PlayStation 3, Xbox 360, Windows",
+    "releaseDate": "2011-01-25"
+  },
+  {
+    "title": "Dead Space 3",
+    "genre": "Third-person shooter, science fiction, Body horror",
+    "developerPublisher": "Visceral Games",
+    "platform": "PlayStation 3, Xbox 360, Windows",
+    "releaseDate": "2013-02-05"
+  },
+  {
+    "title": "Dead Space: Extraction",
+    "genre": "Rail shooter",
+    "developerPublisher": "Visceral Games, Eurocom",
+    "platform": "Wii, PlayStation 3",
+    "releaseDate": "2009-09-29"
+  },
+  {
+    "title": "Dead Static Drive",
+    "genre": "Adventure, cosmic horror",
+    "developerPublisher": "Mike Blackney",
+    "platform": "Windows, PlayStation 4",
+    "releaseDate": "2019"
+  },
+  {
+    "title": "Dead State",
+    "genre": "Role-playing game",
+    "developerPublisher": "DoubleBear Productions",
+    "platform": "Windows",
+    "releaseDate": "2014-12-04"
+  },
+  {
+    "title": "Deadly Premonition",
+    "genre": "Survival horror, adventure, open world, Mystery",
+    "developerPublisher": "Access Games",
+    "platform": "PlayStation 3, Xbox 360",
+    "releaseDate": "2010-02-23"
+  },
+  {
+    "title": "Deadly Premonition 2: A Blessing in Disguise",
+    "genre": "Survival horror, Action-Adventure, open world, Mystery",
+    "developerPublisher": "TOYBOX Inc.",
+    "platform": "Nintendo Switch",
+    "releaseDate": "2020-07-10"
+  },
+  {
+    "title": "Deathbloom: Chapter 1",
+    "genre": "Survival horror",
+    "developerPublisher": "Vincent Lade",
+    "platform": "",
+    "releaseDate": "2019"
+  },
+  {
+    "title": "Deathbloom: Chapter 2",
+    "genre": "Survival horror",
+    "developerPublisher": "Vincent Lade",
+    "platform": "",
+    "releaseDate": "2020"
+  },
+  {
+    "title": "Deathmaze 5000",
+    "genre": "Survival horror",
+    "developerPublisher": "Med Systems",
+    "platform": "TRS-80, Apple II",
+    "releaseDate": "1980"
+  },
+  {
+    "title": "Deep Fear",
+    "genre": "Survival horror",
+    "developerPublisher": "Sega",
+    "platform": "Sega Saturn",
+    "releaseDate": "1998-07-16"
+  },
+  {
+    "title": "Deep Sleep",
+    "genre": "Point and click",
+    "developerPublisher": "Scriptwelder",
+    "platform": "Browser",
+    "releaseDate": "2012-07-02"
+  },
+  {
+    "title": "Deeper Sleep",
+    "genre": "Point and click",
+    "developerPublisher": "Scriptwelder",
+    "platform": "Browser",
+    "releaseDate": "2013-08-29"
+  },
+  {
+    "title": "The Deepest Sleep",
+    "genre": "Point and click",
+    "developerPublisher": "Scriptwelder",
+    "platform": "Browser",
+    "releaseDate": "2014-07-18"
+  },
+  {
+    "title": "Dementium: The Ward",
+    "genre": "Survival horror, first-person shooter",
+    "developerPublisher": "Renegade Kid",
+    "platform": "Nintendo DS",
+    "releaseDate": "2007-10-31"
+  },
+  {
+    "title": "Dementium II",
+    "genre": "Survival horror, first-person shooter",
+    "developerPublisher": "Renegade Kid",
+    "platform": "Nintendo DS, OS X, Windows",
+    "releaseDate": "2010-05-04"
+  },
+  {
+    "title": "Demon's World",
+    "genre": "shoot 'em up",
+    "developerPublisher": "Toaplan, Taito",
+    "platform": "Arcade",
+    "releaseDate": "1989"
+  },
+  {
+    "title": "Devil May Cry",
+    "genre": "Hack and Slash",
+    "developerPublisher": "Capcom",
+    "platform": "PlayStation 2, PlayStation 3, Xbox 360, Windows, PlayStation 4, Xbox One",
+    "releaseDate": "2001-08-23"
+  },
+  {
+    "title": "The Divide: Enemies Within",
+    "genre": "Metroidvania",
+    "developerPublisher": "Radical Entertainment",
+    "platform": "Windows, PlayStation",
+    "releaseDate": "1996"
+  },
+  {
+    "title": "Dino Crisis",
+    "genre": "Survival horror, action adventure",
+    "developerPublisher": "Capcom",
+    "platform": "PlayStation, Dreamcast, Windows",
+    "releaseDate": "1999-07-01"
+  },
+  {
+    "title": "Dino Crisis 2",
+    "genre": "Survival horror, action adventure",
+    "developerPublisher": "Capcom",
+    "platform": "PlayStation, PlayStation Network, Windows",
+    "releaseDate": "2000-09-13"
+  },
+  {
+    "title": "Dino Crisis 3",
+    "genre": "Action-adventure",
+    "developerPublisher": "Capcom",
+    "platform": "Xbox",
+    "releaseDate": "2003-06-23"
+  },
+  {
+    "title": "Dino Stalker",
+    "genre": "First-person shooter",
+    "developerPublisher": "Capcom",
+    "platform": "PlayStation 2",
+    "releaseDate": "2002-06-27"
+  },
+  {
+    "title": "Discover My Body",
+    "genre": "Point-and-click",
+    "developerPublisher": "Yames",
+    "platform": "Windows, Linux, macOS",
+    "releaseDate": "2020"
+  },
+  {
+    "title": "Doctor Hauzer",
+    "genre": "Survival horror",
+    "developerPublisher": "Riverhillsoft",
+    "platform": "3DO Interactive Multiplayer",
+    "releaseDate": "1994-04-29"
+  },
+  {
+    "title": "Doki Doki Literature Club!",
+    "genre": "Visual novel/psychological horror",
+    "developerPublisher": "Team Salvato",
+    "platform": "Steam",
+    "releaseDate": "2017-09-22"
+  },
+  {
+    "title": "Doom",
+    "genre": "First-person shooter, action game",
+    "developerPublisher": "id software",
+    "platform": "Windows",
+    "releaseDate": "1993-12-10"
+  },
+  {
+    "title": "Doom II: Hell on Earth",
+    "genre": "First-person shooter, action game",
+    "developerPublisher": "id software",
+    "platform": "Windows",
+    "releaseDate": "1994-10-10"
+  },
+  {
+    "title": "Doom 3",
+    "genre": "First-person shooter, action game",
+    "developerPublisher": "id Software, Activision",
+    "platform": "Windows, Linux, OS X, Xbox, Xbox 360, PlayStation 3",
+    "releaseDate": "2004-08-03"
+  },
+  {
+    "title": "Doom 3: Resurrection of Evil",
+    "genre": "First-person shooter, action game",
+    "developerPublisher": "Nerve Software, id Software, Activision",
+    "platform": "Windows, Linux, Xbox",
+    "releaseDate": "2005-04-03"
+  },
+  {
+    "title": "Doom 3: The Lost Mission",
+    "genre": "First-person shooter, action game",
+    "developerPublisher": "id Software",
+    "platform": "Windows, Linux, Xbox",
+    "releaseDate": "2012-10-16"
+  },
+  {
+    "title": "DOOM",
+    "genre": "First-person shooter, action game",
+    "developerPublisher": "id Software",
+    "platform": "Windows, Linux, Xbox",
+    "releaseDate": "2016-05-13"
+  },
+  {
+    "title": "DOOM Eternal",
+    "genre": "First-person shooter, action game",
+    "developerPublisher": "id Software",
+    "platform": "Windows, Linux, Xbox",
+    "releaseDate": "2020-03-20"
+  },
+  {
+    "title": "Doppelganger",
+    "genre": "Action-adventure game",
+    "developerPublisher": "Alligata, Americana",
+    "platform": "Amstrad CPC",
+    "releaseDate": "1985"
+  },
+  {
+    "title": "Doors",
+    "genre": "First-person escape room",
+    "developerPublisher": "LSPLASH, Red, Ghostly_Wowzers, jasper_creations",
+    "platform": "Roblox (Xbox One, Windows, MacOS, IOS, Android)",
+    "releaseDate": "2022-08-10"
+  },
+  {
+    "title": "Dusk",
+    "genre": "First-person shooter, action game, psychological horror",
+    "developerPublisher": "David Szymanski",
+    "platform": "Windows",
+    "releaseDate": "2018-12-25"
+  },
+  {
+    "title": "Dr. Chaos",
+    "genre": "Survival horror",
+    "developerPublisher": "Marionette",
+    "platform": "Nintendo Entertainment System",
+    "releaseDate": "1987-06-19"
+  },
+  {
+    "title": "Dracula: The Days of Gore",
+    "genre": "First-person shooter",
+    "developerPublisher": "Wolfgroup",
+    "platform": "Windows",
+    "releaseDate": "2006"
+  },
+  {
+    "title": "DreadOut",
+    "genre": "Survival horror",
+    "developerPublisher": "Digital Happiness, PT Digital Semantika Indonesia",
+    "platform": "Windows, OS X, Linux",
+    "releaseDate": "2014-05-15"
+  },
+  {
+    "title": "DreadOut 2",
+    "genre": "Survival horror",
+    "developerPublisher": "Digital Happiness",
+    "platform": "Windows",
+    "releaseDate": "2020"
+  },
+  {
+    "title": "DreadOut: Keepers of the Dark",
+    "genre": "Survival horror",
+    "developerPublisher": "Digital Happiness, PT Digital Semantika Indonesia",
+    "platform": "Windows, OS X, Linux",
+    "releaseDate": "2016"
+  },
+  {
+    "title": "Dream Of The Blood Moon",
+    "genre": "Adventure, Gothic horror, psychological horror",
+    "developerPublisher": "Daniel Klenk",
+    "platform": "Windows, Mac",
+    "releaseDate": "2012"
+  },
+  {
+    "title": "Duck Season",
+    "genre": "Virtual Reality Horror Game, Older game based fiction, psychological horror",
+    "developerPublisher": "Stress Level Zero",
+    "platform": "Steam, PS4, PC",
+    "releaseDate": "2017"
+  },
+  {
+    "title": "Dying Light",
+    "genre": "Action role-playing, open world",
+    "developerPublisher": "Techland",
+    "platform": "Windows, PlayStation 4, Xbox One",
+    "releaseDate": "2015-01-27"
+  },
+  {
+    "title": "Dying Light: The Following",
+    "genre": "Action role-playing, open world",
+    "developerPublisher": "Techland",
+    "platform": "Windows, PlayStation 4, Xbox One",
+    "releaseDate": "2016-02-09"
+  },
+  {
+    "title": "Dying Light 2",
+    "genre": "Action role-playing, survival horror",
+    "developerPublisher": "Techland",
+    "platform": "Windows, PlayStation 4, Xbox One",
+    "releaseDate": "2022-02-04"
+  },
+  {
+    "title": "Echo",
+    "genre": "Third-person shooter, stealth, science fiction",
+    "developerPublisher": "Ultra Ultra",
+    "platform": "Windows",
+    "releaseDate": "2017-09-19"
+  },
+  {
+    "title": "Edge of Nowhere",
+    "genre": "Action-adventure game, cosmic horror",
+    "developerPublisher": "Insomniac Games",
+    "platform": "Windows",
+    "releaseDate": "2016-06-06"
+  },
+  {
+    "title": "Elvira: Mistress of the Dark",
+    "genre": "Adventure, role-playing game, point-and-click adventure game",
+    "developerPublisher": "Horrorsoft",
+    "platform": "Amiga, Atari ST, C64 MS-DOS",
+    "releaseDate": "1990"
+  },
+  {
+    "title": "Elvira II: The Jaws of Cerberus",
+    "genre": "Adventure, role-playing game, point-and-click adventure game",
+    "developerPublisher": "Horrorsoft",
+    "platform": "Amiga, Atari ST, C64 MS-DOS",
+    "releaseDate": "1992"
+  },
+  {
+    "title": "Emily Wants to Play",
+    "genre": "Adventure, psychological horror",
+    "developerPublisher": "Shawn Hitchcock",
+    "platform": "Windows, OS X, iOS, Android, PlayStation 4, Xbox One",
+    "releaseDate": "2015-12-10"
+  },
+  {
+    "title": "Enemy Zero",
+    "genre": "Survival horror, stealth",
+    "developerPublisher": "WARP",
+    "platform": "Sega Saturn, Windows",
+    "releaseDate": "1996-12-13"
+  },
+  {
+    "title": "Entity",
+    "genre": "Walking simulator, psychological horror",
+    "developerPublisher": "Scythe Dev Team",
+    "platform": "Windows",
+    "releaseDate": "2019-11-29"
+  },
+  {
+    "title": "Escape Dead Island",
+    "genre": "Action role-playing, action game",
+    "developerPublisher": "Fatshark",
+    "platform": "PlayStation 3, Xbox 360, Windows",
+    "releaseDate": "2014-11-18"
+  },
+  {
+    "title": "Escape from Bug Island",
+    "genre": "Survival horror, Third-person shooter",
+    "developerPublisher": "Spike",
+    "platform": "Wii",
+    "releaseDate": "2006-12-02"
+  },
+  {
+    "title": "Escape from Monster Manor",
+    "genre": "First-person shooter",
+    "developerPublisher": "Electronic Arts",
+    "platform": "3DO Interactive Multiplayer",
+    "releaseDate": "1993"
+  },
+  {
+    "title": "Escape The Ayuwoki",
+    "genre": "First person, Puzzle, survival horror",
+    "developerPublisher": "DeadlyCrow Games",
+    "platform": "Windows",
+    "releaseDate": "2019-11-26"
+  },
+  {
+    "title": "Eternal Darkness: Sanity's Requiem",
+    "genre": "Survival horror, action role-playing, cosmic horror",
+    "developerPublisher": "Silicon Knights",
+    "platform": "GameCube",
+    "releaseDate": "2002-06-23"
+  },
+  {
+    "title": "The Evil Dead",
+    "genre": "Adventure",
+    "developerPublisher": "Palace Software",
+    "platform": "Commodore 64, ZX Spectrum",
+    "releaseDate": "1984"
+  },
+  {
+    "title": "Evil Dead: Hail to the King",
+    "genre": "Survival horror",
+    "developerPublisher": "Heavy Iron Studios, THQ",
+    "platform": "PlayStation, Dreamcast, Windows",
+    "releaseDate": "2000-12-05"
+  },
+  {
+    "title": "Evil Dead: A Fistful of Boomstick",
+    "genre": "Hack and slash",
+    "developerPublisher": "VIS Entertainment, THQ",
+    "platform": "PlayStation 2, Xbox",
+    "releaseDate": "2003-06-27"
+  },
+  {
+    "title": "Evil Dead: Regeneration",
+    "genre": "Action game, hack and slash",
+    "developerPublisher": "Cranky Pants Games, THQ",
+    "platform": "PlayStation 2, Xbox, Windows",
+    "releaseDate": "2005-09-13"
+  },
+  {
+    "title": "Evil Dead: The Game",
+    "genre": "Survival horror",
+    "developerPublisher": "Saber Interactive",
+    "platform": "Windows, Xbox One, Xbox Series X/S, PlayStation 4, PlayStation 5, Nintendo Switch",
+    "releaseDate": "2022-05-13"
+  },
+  {
+    "title": "Evil Resistance: Morning of the Dead",
+    "genre": "First-person shooter, action game",
+    "developerPublisher": "Openoko Entertainment",
+    "platform": "Windows",
+    "releaseDate": "2008-11-12"
+  },
+  {
+    "title": "The Evil Within",
+    "genre": "Survival horror, action role-playing",
+    "developerPublisher": "Tango Gameworks",
+    "platform": "Windows, PlayStation 3, PlayStation 4, Xbox One, Xbox 360",
+    "releaseDate": "2014-10-14"
+  },
+  {
+    "title": "The Evil Within 2",
+    "genre": "Survival horror, action role-playing, open world",
+    "developerPublisher": "Tango Gameworks",
+    "platform": "Windows, PlayStation 4, Xbox One",
+    "releaseDate": "2017-10-13"
+  },
+  {
+    "title": "Extermination",
+    "genre": "Survival horror, Body horror",
+    "developerPublisher": "Deep Space",
+    "platform": "PlayStation 2",
+    "releaseDate": "2001-03-08"
+  },
+  {
+    "title": "Ecstatica",
+    "genre": "Survival horror, Gothic horror",
+    "developerPublisher": "Andrew Spencer Studios",
+    "platform": "MS-DOS, Windows",
+    "releaseDate": "1994"
+  },
+  {
+    "title": "Ecstatica II",
+    "genre": "Adventure, Gothic horror",
+    "developerPublisher": "Andrew Spencer Studios",
+    "platform": "MS-DOS, Windows",
+    "releaseDate": "1997"
+  },
+  {
+    "title": "End of the Line",
+    "genre": "Survival horror",
+    "developerPublisher": "Plummet Studios",
+    "platform": "Windows, OS X, Linux",
+    "releaseDate": "2019"
+  },
+  {
+    "title": "Ergastulum",
+    "genre": "Adventure, psychological horror",
+    "developerPublisher": "K Monkey",
+    "platform": "Windows",
+    "releaseDate": "2019"
+  },
+  {
+    "title": "Eyes - The Horror Game / Eyes - Scary & Creepy Survival Horror Game",
+    "genre": "Asset-Flip",
+    "developerPublisher": "",
+    "platform": "Windows, Linux, OS X, iOS, Android",
+    "releaseDate": "2013-02-14"
+  },
+  {
+    "title": "Faith: The Unholy Trinity",
+    "genre": "Adventure, psychological horror",
+    "developerPublisher": "Airdorf",
+    "platform": "Windows",
+    "releaseDate": "2017"
+  },
+  {
+    "title": "Fatal Frame /\nProject Zero",
+    "genre": "Survival horror",
+    "developerPublisher": "Tecmo Koei",
+    "platform": "PlayStation 2, Xbox",
+    "releaseDate": "2001-12-13[10]"
+  },
+  {
+    "title": "Fatal Frame II: Crimson Butterfly /\nProject Zero II: Crimson Butterfly",
+    "genre": "Survival horror",
+    "developerPublisher": "Tecmo Koei",
+    "platform": "PlayStation 2, Xbox, Wii",
+    "releaseDate": "2003-11-27"
+  },
+  {
+    "title": "Fatal Frame III: The Tormented /\nProject Zero III: The Tormented",
+    "genre": "Survival horror",
+    "developerPublisher": "Tecmo Koei",
+    "platform": "PlayStation 2, PlayStation Network",
+    "releaseDate": "2005-07-28"
+  },
+  {
+    "title": "Fatal Frame: Mask of the Lunar Eclipse /\nProject Zero IV: Mask of the Lunar Eclipse",
+    "genre": "Survival horror",
+    "developerPublisher": "Grasshopper Manufacture",
+    "platform": "Wii, Nintendo Switch, PlayStation 5, PlayStation 4, Xbox Series X and Series S, Xbox One, Steam",
+    "releaseDate": "2008-07-31"
+  },
+  {
+    "title": "Fatal Frame: Maiden of Black Water /\nProject Zero: Maiden of Black Water",
+    "genre": "Survival horror",
+    "developerPublisher": "Tecmo Koei",
+    "platform": "Wii U, Nintendo Switch, PlayStation 5, PlayStation 4, Xbox Series X and Series S, Xbox One, Steam",
+    "releaseDate": "2014-09-27"
+  },
+  {
+    "title": "F.E.A.R.",
+    "genre": "First-person shooter, action game, psychological horror",
+    "developerPublisher": "Monolith Productions",
+    "platform": "Windows, Xbox 360, PlayStation 3",
+    "releaseDate": "2005-10-18"
+  },
+  {
+    "title": "F.E.A.R. Extraction Point",
+    "genre": "First-person shooter, action game, psychological horror",
+    "developerPublisher": "TimeGate Studios",
+    "platform": "Windows, Xbox 360",
+    "releaseDate": "2006-10-24"
+  },
+  {
+    "title": "F.E.A.R. Perseus Mandate",
+    "genre": "First-person shooter, action game, psychological horror",
+    "developerPublisher": "TimeGate Studios",
+    "platform": "Windows, Xbox 360",
+    "releaseDate": "2007-11-06"
+  },
+  {
+    "title": "F.E.A.R. 2: Project Origin",
+    "genre": "First-person shooter, action game, psychological horror",
+    "developerPublisher": "Monolith Productions",
+    "platform": "Windows, Xbox 360, PlayStation 3",
+    "releaseDate": "2009-02-10"
+  },
+  {
+    "title": "F.E.A.R. 3",
+    "genre": "First-person shooter, action game, psychological horror",
+    "developerPublisher": "Day 1 Studios",
+    "platform": "Windows, Xbox 360, PlayStation 3",
+    "releaseDate": "2011-06-21"
+  },
+  {
+    "title": "Fear & Hunger",
+    "genre": "Tactical role-playing game, dark fantasy",
+    "developerPublisher": "Miro Haverinen",
+    "platform": "Mac, PC",
+    "releaseDate": "2018-12-11"
+  },
+  {
+    "title": "Fear Effect",
+    "genre": "Action-adventure game, science fiction",
+    "developerPublisher": "Kronos Digital Entertainment",
+    "platform": "PlayStation",
+    "releaseDate": "2000-05-24"
+  },
+  {
+    "title": "Fear Effect 2: Retro Helix",
+    "genre": "Action-adventure game, science fiction",
+    "developerPublisher": "Kronos Digital Entertainment",
+    "platform": "PlayStation",
+    "releaseDate": "2001-05-21"
+  },
+  {
+    "title": "Fear Effect Reinvented",
+    "genre": "Action-adventure game",
+    "developerPublisher": "Sushee",
+    "platform": "Windows, Xbox One, PlayStation 4",
+    "releaseDate": "Canceled (2020)"
+  },
+  {
+    "title": "Fear the Dark Unknown",
+    "genre": "Survival horror",
+    "developerPublisher": "Dreamlight Games",
+    "platform": "Windows",
+    "releaseDate": "2019"
+  },
+  {
+    "title": "Forbidden Forest",
+    "genre": "Adventure",
+    "developerPublisher": "Cosmi Corporation",
+    "platform": "Commodore 64",
+    "releaseDate": "1983"
+  },
+  {
+    "title": "Beyond the Forbidden Forest",
+    "genre": "Adventure",
+    "developerPublisher": "Cosmi Corporation",
+    "platform": "Commodore 64",
+    "releaseDate": "1985"
+  },
+  {
+    "title": "Forgotten Memories: Alternate Realities",
+    "genre": "Survival horror, psychological horror",
+    "developerPublisher": "Psychoz Interactive",
+    "platform": "Windows",
+    "releaseDate": "2015-04-23"
+  },
+  {
+    "title": "Fran Bow",
+    "genre": "Psychological horror",
+    "developerPublisher": "Killmonday Games",
+    "platform": "Windows, Linux, OS X, Android, iOS",
+    "releaseDate": "2015-2016"
+  },
+  {
+    "title": "Frankenstein: The Monster Returns",
+    "genre": "platform",
+    "developerPublisher": "Tose",
+    "platform": "Nintendo Entertainment System",
+    "releaseDate": "1991"
+  },
+  {
+    "title": "Frankenstein's Monster",
+    "genre": "platform",
+    "developerPublisher": "Data Age",
+    "platform": "Atari 2600",
+    "releaseDate": "1983"
+  },
+  {
+    "title": "Frankenstein",
+    "genre": "Text adventure",
+    "developerPublisher": "CRL Group",
+    "platform": "Amstrad CPC, Commodore 64, ZX Spectrum",
+    "releaseDate": "1987"
+  },
+  {
+    "title": "From Dusk Till Dawn",
+    "genre": "First-person shooter, Third-person shooter",
+    "developerPublisher": "Cryo Interactive",
+    "platform": "Windows",
+    "releaseDate": "2001-09-11"
+  },
+  {
+    "title": "Friday the 13th",
+    "genre": "Action-adventure",
+    "developerPublisher": "Domark",
+    "platform": "Amstrad CPC, Commodore 64, ZX Spectrum",
+    "releaseDate": "1985"
+  },
+  {
+    "title": "Friday the 13th",
+    "genre": "Survival horror",
+    "developerPublisher": "Pack-In-Video",
+    "platform": "Nintendo Entertainment System",
+    "releaseDate": "1989-02"
+  },
+  {
+    "title": "Friday the 13th: Killer Puzzle",
+    "genre": "Puzzle game",
+    "developerPublisher": "Blue Wizard Digital",
+    "platform": "Android, iOS, Nintendo Switch, PlayStation 4, Windows, Xbox One",
+    "releaseDate": "2018-01-20"
+  },
+  {
+    "title": "Friday the 13th: The Game",
+    "genre": "Multiplayer action game",
+    "developerPublisher": "IllFonic",
+    "platform": "Windows, PlayStation 4, Xbox One",
+    "releaseDate": "2017-05-26"
+  },
+  {
+    "title": "Five Nights at Freddy's",
+    "genre": "Point and click",
+    "developerPublisher": "Scott Cawthon",
+    "platform": "Windows, Android, IOS",
+    "releaseDate": "2014-08-24"
+  },
+  {
+    "title": "Five Nights at Freddy's 2",
+    "genre": "Point and click",
+    "developerPublisher": "Scott Cawthon",
+    "platform": "Windows, Android, IOS",
+    "releaseDate": "2014-11-10"
+  },
+  {
+    "title": "Five Nights at Freddy's 3",
+    "genre": "Point and click",
+    "developerPublisher": "Scott Cawthon",
+    "platform": "Windows, Android, IOS",
+    "releaseDate": "2015-03-02"
+  },
+  {
+    "title": "Five Nights at Freddy's 4",
+    "genre": "Point and click",
+    "developerPublisher": "Scott Cawthon",
+    "platform": "Windows, Android, IOS",
+    "releaseDate": "2015-07-23"
+  },
+  {
+    "title": "Five Nights at Freddy's: Sister Location",
+    "genre": "Point and click",
+    "developerPublisher": "Scott Cawthon",
+    "platform": "Windows, Android, IOS",
+    "releaseDate": "2016-10-07"
+  },
+  {
+    "title": "Freddy Fazbear's Pizzeria Simulator",
+    "genre": "Point and click",
+    "developerPublisher": "Scott Cawthon",
+    "platform": "Windows",
+    "releaseDate": "2017-12-05"
+  },
+  {
+    "title": "Ultimate Custom Night",
+    "genre": "Point and click",
+    "developerPublisher": "Scott Cawthon",
+    "platform": "Windows",
+    "releaseDate": "2018-6-27"
+  },
+  {
+    "title": "Five Nights at Freddy's: Security Breach",
+    "genre": "Survival horror",
+    "developerPublisher": "Steel Wool Studios",
+    "platform": "Windows, PlayStation 5, PlayStation 4, Google Stadia, Xbox One Xbox Series S/X, Nintendo Switch",
+    "releaseDate": "2021-12-17"
+  },
+  {
+    "title": "Flesh Feast",
+    "genre": "Third-person shooter, action game",
+    "developerPublisher": "Ingames",
+    "platform": "Windows",
+    "releaseDate": "1997"
+  },
+  {
+    "title": "Gakkou de atta Kowai Hanashi",
+    "genre": "Visual novel",
+    "developerPublisher": "Pandora Box",
+    "platform": "Super Famicom, Virtual Console",
+    "releaseDate": "1995"
+  },
+  {
+    "title": "Garden Variety Body horror",
+    "genre": "Survival horror, parody",
+    "developerPublisher": "Jupiter Lighthouse Games",
+    "platform": "Windows",
+    "releaseDate": "2018-11-01"
+  },
+  {
+    "title": "Garten of Banban",
+    "genre": "Adventure, survival horror",
+    "developerPublisher": "Euphoric Brothers",
+    "platform": "Windows, Android IOS",
+    "releaseDate": "2023-01-06"
+  },
+  {
+    "title": "Garten of Banban II",
+    "genre": "Adventure, survival horror",
+    "developerPublisher": "Euphoric Brothers",
+    "platform": "Windows, Android IOS",
+    "releaseDate": "2023-03-03"
+  },
+  {
+    "title": "Garten of Banban III",
+    "genre": "Adventure, survival horror",
+    "developerPublisher": "Euphoric Brothers",
+    "platform": "Windows, Android IOS",
+    "releaseDate": "2023-05-05"
+  },
+  {
+    "title": "Garten of Banban IV",
+    "genre": "Adventure, survival horror",
+    "developerPublisher": "Euphoric Brothers",
+    "platform": "Windows android IOS",
+    "releaseDate": "2023-08-11"
+  },
+  {
+    "title": "Galerians",
+    "genre": "Survival horror, science fiction, Cyberpunk",
+    "developerPublisher": "Polygon Magic",
+    "platform": "PlayStation",
+    "releaseDate": "1999-08-26"
+  },
+  {
+    "title": "Germs: The Targeted Town",
+    "genre": "First-person adventure, open world, body horror",
+    "developerPublisher": "KAJ",
+    "platform": "PlayStation",
+    "releaseDate": "1999"
+  },
+  {
+    "title": "Ghost House",
+    "genre": "Side-Scroller",
+    "developerPublisher": "Sega",
+    "platform": "Master System",
+    "releaseDate": "1986-04-21"
+  },
+  {
+    "title": "Ghost Hunters",
+    "genre": "Platform",
+    "developerPublisher": "Oliver Twins",
+    "platform": "Amstrad CPC, ZX Spectrum",
+    "releaseDate": "1987"
+  },
+  {
+    "title": "Ghost Manor",
+    "genre": "Action game",
+    "developerPublisher": "Xonox",
+    "platform": "Atari 2600, Vic-20, TurboGrafx-16",
+    "releaseDate": "1983"
+  },
+  {
+    "title": "Ghost Trap",
+    "genre": "Survival horror",
+    "developerPublisher": "Artoon",
+    "platform": "Game Boy Advance",
+    "releaseDate": "2002"
+  },
+  {
+    "title": "Ghost Vibration",
+    "genre": "On-rails shooter",
+    "developerPublisher": "Artoon",
+    "platform": "PlayStation 2",
+    "releaseDate": "2002"
+  },
+  {
+    "title": "Ghoul School",
+    "genre": "Action game, Metroidvania",
+    "developerPublisher": "Imagineering",
+    "platform": "Nintendo Entertainment System",
+    "releaseDate": "1992-05-01"
+  },
+  {
+    "title": "Glass Rose",
+    "genre": "Point-and-click adventure",
+    "developerPublisher": "Capcom",
+    "platform": "PlayStation 2",
+    "releaseDate": "2003-11-06"
+  },
+  {
+    "title": "The Glass Staircase",
+    "genre": "Survival horror",
+    "developerPublisher": "Puppet Combo",
+    "platform": "Windows",
+    "releaseDate": "2019-04-00"
+  },
+  {
+    "title": "Gloomwood",
+    "genre": "Roguelike, Immersive sim",
+    "developerPublisher": "Dillon Rogers",
+    "platform": "Windows",
+    "releaseDate": "2019"
+  },
+  {
+    "title": "Granny",
+    "genre": "Survival horror",
+    "developerPublisher": "DVloper",
+    "platform": "iOS, Android, Windows",
+    "releaseDate": "2017-11-24"
+  },
+  {
+    "title": "Granny: Chapter Two",
+    "genre": "Survival horror",
+    "developerPublisher": "DVloper",
+    "platform": "iOS, Android, Windows",
+    "releaseDate": "2019-09-06"
+  },
+  {
+    "title": "Granny 3",
+    "genre": "Survival horror",
+    "developerPublisher": "DVloper",
+    "platform": "Android, Windows",
+    "releaseDate": "2021-06-03"
+  },
+  {
+    "title": "Gregory Horror Show",
+    "genre": "Survival horror",
+    "developerPublisher": "Capcom",
+    "platform": "PlayStation 2",
+    "releaseDate": "2003-06-03"
+  },
+  {
+    "title": "The Grinder",
+    "genre": "First-person shooter",
+    "developerPublisher": "High Voltage Software",
+    "platform": "Wii, PlayStation 3, Xbox 360, Windows",
+    "releaseDate": "Canceled (2011)"
+  },
+  {
+    "title": "The Guardian of Darkness",
+    "genre": "Survival horror",
+    "developerPublisher": "Cryo Interactive",
+    "platform": "Windows, PlayStation",
+    "releaseDate": "1999-06-20"
+  },
+  {
+    "title": "Half-Life",
+    "genre": "First-person shooter",
+    "developerPublisher": "Valve",
+    "platform": "Windows, PlayStation 2, OS X, Linux",
+    "releaseDate": "1998-11-19"
+  },
+  {
+    "title": "Halloween",
+    "genre": "Survival horror",
+    "developerPublisher": "Wizard Video",
+    "platform": "Atari 2600",
+    "releaseDate": "1983"
+  },
+  {
+    "title": "Harrowed World: Portents In Red",
+    "genre": "Role-playing, action role-playing,\n\nsupernatural, vampire",
+    "developerPublisher": "Pennyvale Media",
+    "platform": "Windows",
+    "releaseDate": "TBA"
+  },
+  {
+    "title": "Harrowed World: Wormwood RIsing",
+    "genre": "Visual novel, supernatural, magic, witchcraft",
+    "developerPublisher": "Pennyvale Media",
+    "platform": "Windows",
+    "releaseDate": "TBA"
+  },
+  {
+    "title": "Harthorn",
+    "genre": "Mystery",
+    "developerPublisher": "Vincent Lade",
+    "platform": "",
+    "releaseDate": "2020"
+  },
+  {
+    "title": "Harvester",
+    "genre": "Adventure, Mystery",
+    "developerPublisher": "DigiFX Interactive",
+    "platform": "MS-DOS",
+    "releaseDate": "1996-08-31"
+  },
+  {
+    "title": "Haunted House",
+    "genre": "Adventure",
+    "developerPublisher": "Atari",
+    "platform": "Atari 2600",
+    "releaseDate": "1981"
+  },
+  {
+    "title": "Return to Haunted House",
+    "genre": "Adventure",
+    "developerPublisher": "?",
+    "platform": "Atari 2600",
+    "releaseDate": "1983"
+  },
+  {
+    "title": "Haunted House: Cryptic Graves",
+    "genre": "Survival horror",
+    "developerPublisher": "Dreampainters Software",
+    "platform": "Windows",
+    "releaseDate": "2014-11-25"
+  },
+  {
+    "title": "Haunted House",
+    "genre": "Role-playing game",
+    "developerPublisher": "Magnavox",
+    "platform": "Magnavox Odyssey",
+    "releaseDate": "1972"
+  },
+  {
+    "title": "Haunting Ground",
+    "genre": "Survival horror",
+    "developerPublisher": "Capcom",
+    "platform": "PlayStation 2",
+    "releaseDate": "2005-04-21"
+  },
+  {
+    "title": "Hell: A Cyberpunk Thriller",
+    "genre": "Point-and-click adventure",
+    "developerPublisher": "Take-Two Interactive",
+    "platform": "MS-DOS, 3DO",
+    "releaseDate": "1994"
+  },
+  {
+    "title": "Hellblade: Senua's Sacrifice",
+    "genre": "Action-adventure",
+    "developerPublisher": "Ninja Theory",
+    "platform": "PlayStation 4, Windows",
+    "releaseDate": "2017-08-08"
+  },
+  {
+    "title": "Hellforces",
+    "genre": "First-person shooter",
+    "developerPublisher": "Orion Games",
+    "platform": "Windows",
+    "releaseDate": "2005"
+  },
+  {
+    "title": "Hellnight",
+    "genre": "Survival horror, Adventure",
+    "developerPublisher": "Atlus",
+    "platform": "PlayStation",
+    "releaseDate": "1998-06-11"
+  },
+  {
+    "title": "HellTown",
+    "genre": "Adventure, psychological horror",
+    "developerPublisher": "WildArts",
+    "platform": "Windows",
+    "releaseDate": "2016"
+  },
+  {
+    "title": "HellSign",
+    "genre": "Role-playing game, psychological horror",
+    "developerPublisher": "Ballistic Interactive",
+    "platform": "Windows",
+    "releaseDate": "2018-11-09"
+  },
+  {
+    "title": "Hell was here",
+    "genre": "First-person shooter",
+    "developerPublisher": "Crystal Lake",
+    "platform": "Windows",
+    "releaseDate": "2013-09-15"
+  },
+  {
+    "title": "Hide",
+    "genre": "Adventure, psychological horror",
+    "developerPublisher": "Andrew Shouldice",
+    "platform": "Windows",
+    "releaseDate": "2011"
+  },
+  {
+    "title": "Higurashi When They Cry",
+    "genre": "Visual novel, Dōjin soft",
+    "developerPublisher": "07th Expansion",
+    "platform": "PC, PlayStation 2, Nintendo DS, iOS",
+    "releaseDate": "2002-08-10"
+  },
+  {
+    "title": "HRS Devil game I",
+    "genre": "Multiplayer horror game",
+    "developerPublisher": "UnkGames",
+    "platform": "Windows",
+    "releaseDate": "2022-07-07"
+  },
+  {
+    "title": "Hungry Ghosts",
+    "genre": "Survival horror, first-person adventure",
+    "developerPublisher": "Deep Space",
+    "platform": "PlayStation 2",
+    "releaseDate": "2003-07-31"
+  },
+  {
+    "title": "Hugo's House of Horrors",
+    "genre": "Adventure",
+    "developerPublisher": "Gray Design Associates",
+    "platform": "MS-DOS, Windows",
+    "releaseDate": "1990"
+  },
+  {
+    "title": "Home",
+    "genre": "Adventure, Mystery",
+    "developerPublisher": "Benjamin Rivers Inc.",
+    "platform": "Windows",
+    "releaseDate": "2012-06-01"
+  },
+  {
+    "title": "The House of the Dead",
+    "genre": "Rail Shooter",
+    "developerPublisher": "Wow Entertainment",
+    "platform": "Arcade, Windows, Sega Saturn, Wii, Xbox",
+    "releaseDate": "1996-09-13"
+  },
+  {
+    "title": "The House of the Dead 2",
+    "genre": "Rail Shooter",
+    "developerPublisher": "Wow Entertainment",
+    "platform": "Arcade, Dreamcast, Windows",
+    "releaseDate": "1998"
+  },
+  {
+    "title": "The House of the Dead III",
+    "genre": "Rail Shooter",
+    "developerPublisher": "Wow Entertainment",
+    "platform": "Arcade, Xbox, Windows",
+    "releaseDate": "2002"
+  },
+  {
+    "title": "The House of the Dead 4",
+    "genre": "Rail Shooter",
+    "developerPublisher": "Wow Entertainment",
+    "platform": "Arcade, PlayStation 3",
+    "releaseDate": "2005"
+  },
+  {
+    "title": "The House of the Dead: Overkill",
+    "genre": "Rail Shooter",
+    "developerPublisher": "Headstrong Games",
+    "platform": "Wii, PlayStation 3",
+    "releaseDate": "2009"
+  },
+  {
+    "title": "House of the Dead: Scarlet Dawn",
+    "genre": "Rail Shooter",
+    "developerPublisher": "Sega Interactive",
+    "platform": "Arcade",
+    "releaseDate": "2018"
+  },
+  {
+    "title": "House of Usher",
+    "genre": "Survival horror, adventure",
+    "developerPublisher": "John and Patty Bell",
+    "platform": "Atari 8-bit",
+    "releaseDate": "1980"
+  },
+  {
+    "title": "Horror House",
+    "genre": "Adventure",
+    "developerPublisher": "Nihon Falcom",
+    "platform": "NEC PC-8801",
+    "releaseDate": "1983"
+  },
+  {
+    "title": "Kyoki no Yakata: Horror House Part 2",
+    "genre": "Adventure",
+    "developerPublisher": "Nihon Falcom",
+    "platform": "NEC PC-8801",
+    "releaseDate": "1983"
+  },
+  {
+    "title": "Hrot",
+    "genre": "First-person shooter, dieselpunk",
+    "developerPublisher": "Spytihněv",
+    "platform": "Windows",
+    "releaseDate": "2023-05-16"
+  },
+  {
+    "title": "The Hunt",
+    "genre": "First-person shooter, melee",
+    "developerPublisher": "Orion Games",
+    "platform": "Windows",
+    "releaseDate": "2008"
+  },
+  {
+    "title": "Hunt: Showdown",
+    "genre": "First-person shooter",
+    "developerPublisher": "Crytek",
+    "platform": "Windows",
+    "releaseDate": "2018"
+  },
+  {
+    "title": "Hunt the Wumpus",
+    "genre": "Survival horror, Interactive fiction",
+    "developerPublisher": "Gregory Yob",
+    "platform": "TRS-80",
+    "releaseDate": "1973"
+  },
+  {
+    "title": "Husk°",
+    "genre": "Survival horror, Adventure",
+    "developerPublisher": "UndeadScout",
+    "platform": "Windows",
+    "releaseDate": "2017-02-03"
+  },
+  {
+    "title": "I Am Alive",
+    "genre": "Survival horror, action adventure",
+    "developerPublisher": "Darkworks",
+    "platform": "PlayStation 3, Xbox 360",
+    "releaseDate": "2012-04-03"
+  },
+  {
+    "title": "Ib",
+    "genre": "adventure",
+    "developerPublisher": "kouri",
+    "platform": "Microsoft Windows",
+    "releaseDate": "2012"
+  },
+  {
+    "title": "I Have No Mouth, and I Must Scream",
+    "genre": "Point-and-click adventure",
+    "developerPublisher": "The Dreamers Guild",
+    "platform": "OS X, MS-DOS",
+    "releaseDate": "1995-10-31"
+  },
+  {
+    "title": "Ijigen Kara no Dasshutsu: Escape from Twilight Zone",
+    "genre": "Adventure, Dungeon crawler",
+    "developerPublisher": "Nihon Falcom",
+    "platform": "FM-7",
+    "releaseDate": "1984"
+  },
+  {
+    "title": "Illbleed",
+    "genre": "Survival horror, Parody",
+    "developerPublisher": "Climax Graphics",
+    "platform": "Dreamcast",
+    "releaseDate": "2001-03-29"
+  },
+  {
+    "title": "Imabikisō",
+    "genre": "Visual novel",
+    "developerPublisher": "Chunsoft",
+    "platform": "PlayStation 3, Wii",
+    "releaseDate": "2007-10-23"
+  },
+  {
+    "title": "Immortality",
+    "genre": "Interactive film",
+    "developerPublisher": "Sam Barlow",
+    "platform": "Android, IOS, MacOS, Xbox Series X/S, Windows",
+    "releaseDate": "2022-08-30"
+  },
+  {
+    "title": "I'm Not Alone",
+    "genre": "Survival horror",
+    "developerPublisher": "TGC, Profenix Studio",
+    "platform": "Windows",
+    "releaseDate": "2010"
+  },
+  {
+    "title": "The Inpatient",
+    "genre": "Survival horror",
+    "developerPublisher": "Supermassive Games",
+    "platform": "PlayStation 4",
+    "releaseDate": "2018-01-23"
+  },
+  {
+    "title": "Inside",
+    "genre": "Puzzle-platform, science fiction",
+    "developerPublisher": "Playdead",
+    "platform": "Xbox One, PlayStarion 4, Windows",
+    "releaseDate": "2016-06-29"
+  },
+  {
+    "title": "Insmouse No Yakata",
+    "genre": "Survival horror, Adventure",
+    "developerPublisher": "I'Max Corp.",
+    "platform": "Virtual Boy",
+    "releaseDate": "1995-08-13"
+  },
+  {
+    "title": "Inner Chains",
+    "genre": "First-person shooter",
+    "developerPublisher": "Telepaths Tree",
+    "platform": "Windows",
+    "releaseDate": "2017-05-18"
+  },
+  {
+    "title": "Injection π23",
+    "genre": "Survival horror",
+    "developerPublisher": "Abramelin Games",
+    "platform": "Windows, PlayStation 4",
+    "releaseDate": "2019-05-08"
+  },
+  {
+    "title": "Infestation",
+    "genre": "Action-adventure, science fiction",
+    "developerPublisher": "Danny Gallagher",
+    "platform": "Amiga, Atari ST, MS-DOS",
+    "releaseDate": "1990"
+  },
+  {
+    "title": "Infected",
+    "genre": "Third-person shooter",
+    "developerPublisher": "Planet Moon Studios",
+    "platform": "PlayStation Portable",
+    "releaseDate": "2005-11-15"
+  },
+  {
+    "title": "Iron Helix",
+    "genre": "Adventure",
+    "developerPublisher": "Drew Pictures",
+    "platform": "Windows 3.1, Macintosh, Sega CD",
+    "releaseDate": "1993"
+  },
+  {
+    "title": "It Came from the Desert",
+    "genre": "Action-adventure",
+    "developerPublisher": "Cinemaware",
+    "platform": "Amiga, MS-DOS, Sega Genesis/Mega Drive, Turbo Grafx 16",
+    "releaseDate": "1989"
+  },
+  {
+    "title": "Jack the Ripper",
+    "genre": "Text adventure",
+    "developerPublisher": "CRL Group",
+    "platform": "Amstrad CPC, Commodore 64, ZX Spectrum",
+    "releaseDate": "1987"
+  },
+  {
+    "title": "Juggernaut",
+    "genre": "Adventure",
+    "developerPublisher": "Jaleco",
+    "platform": "PlayStation",
+    "releaseDate": "1998-11-19"
+  },
+  {
+    "title": "Kabus 22",
+    "genre": "Survival horror",
+    "developerPublisher": "Son Isık Ltd. (2GEN Studio)",
+    "platform": "Windows",
+    "releaseDate": "2006-12-25"
+  },
+  {
+    "title": "Kamaitachi no Yoru",
+    "genre": "Visual novel, Dōjin soft",
+    "developerPublisher": "Spike Chunsoft",
+    "platform": "Super Famicom, PlayStation, Game Boy Advance, PC, mobile, iOS, PlayStation Vita, Windows",
+    "releaseDate": "1994–11–25"
+  },
+  {
+    "title": "Kalaban",
+    "genre": "Adventure, survival horror, top-down shooter, cosmic horror",
+    "developerPublisher": "Rayhouse Productions",
+    "platform": "Windows",
+    "releaseDate": "2016-12-29"
+  },
+  {
+    "title": "Killing Floor",
+    "genre": "First-person shooter",
+    "developerPublisher": "Tripwire Interactive",
+    "platform": "Windows",
+    "releaseDate": "2009-05-14"
+  },
+  {
+    "title": "Killing Floor 2",
+    "genre": "First-person shooter",
+    "developerPublisher": "Tripwire Interactive",
+    "platform": "Windows, PlayStation 4",
+    "releaseDate": "2016-11-18"
+  },
+  {
+    "title": "Kirisame ga Furu Mori",
+    "genre": "Adventure",
+    "developerPublisher": "HoshikuzuKRNKRN (Sanada Makoto)",
+    "platform": "Windows",
+    "releaseDate": "2013-10-11"
+  },
+  {
+    "title": "Kenseiden",
+    "genre": "platform, Side-Scroller",
+    "developerPublisher": "Sega",
+    "platform": "Master System",
+    "releaseDate": "1988-06-02"
+  },
+  {
+    "title": "Knights Contract",
+    "genre": "Hack and Slash, Gothic horror",
+    "developerPublisher": "Game Republic",
+    "platform": "PlayStation 3, Xbox 360",
+    "releaseDate": "2011"
+  },
+  {
+    "title": "Knock-Knock",
+    "genre": "Adventure, psychological horror",
+    "developerPublisher": "Ice Pick Lodge",
+    "platform": "Windows",
+    "releaseDate": "2013"
+  },
+  {
+    "title": "Kowa-Oto",
+    "genre": "Adventure",
+    "developerPublisher": "Chunsoft",
+    "platform": "iOS",
+    "releaseDate": "2010-08-31"
+  },
+  {
+    "title": "Kuon",
+    "genre": "Survival horror, supernatural horror",
+    "developerPublisher": "From Software",
+    "platform": "PlayStation 2",
+    "releaseDate": "2004-04-01"
+  },
+  {
+    "title": "Lakeview Cabin Collection",
+    "genre": "Survival horror, Parody",
+    "developerPublisher": "Roope Tamminen",
+    "platform": "Windows",
+    "releaseDate": "2015"
+  },
+  {
+    "title": "Laplace no Ma",
+    "genre": "Role-playing game",
+    "developerPublisher": "Group SNE, Vic Tokai",
+    "platform": "NEC PC-8801, NEC PC-9801, X68000, MS-DOS, TurboGrafx CD, Super Famicom",
+    "releaseDate": "1987"
+  },
+  {
+    "title": "The Last Door",
+    "genre": "Graphic-adventure",
+    "developerPublisher": "The Game Kitchen",
+    "platform": "Android, IOs",
+    "releaseDate": "2013-03-15"
+  },
+  {
+    "title": "The Last of Us",
+    "genre": "Action-adventure, Third-person shooter, stealth, survival horror",
+    "developerPublisher": "Naughty Dog",
+    "platform": "PlayStation 3",
+    "releaseDate": "2013-06-14"
+  },
+  {
+    "title": "The Last of Us: Left Behind",
+    "genre": "Action-adventure, Third-person shooter, stealth, survival horror",
+    "developerPublisher": "Naughty Dog",
+    "platform": "PlayStation 3, PlayStation 4",
+    "releaseDate": "2014-02-14"
+  },
+  {
+    "title": "The Last of Us Part II",
+    "genre": "Action-adventure, Third-person shooter, stealth, survival horror",
+    "developerPublisher": "Naughty Dog",
+    "platform": "PlayStation 4",
+    "releaseDate": "2020-05-29"
+  },
+  {
+    "title": "Last Year: The Nightmare",
+    "genre": "Multiplayer action game",
+    "developerPublisher": "Elastic Games",
+    "platform": "Windows",
+    "releaseDate": "2019"
+  },
+  {
+    "title": "Lamentum",
+    "genre": "Survival horror",
+    "developerPublisher": "Obscure Tales",
+    "platform": "Windows",
+    "releaseDate": "2020 (?)"
+  },
+  {
+    "title": "Layers of Fear",
+    "genre": "Walking simulator",
+    "developerPublisher": "Bloober Team",
+    "platform": "Linux, Windows, macOS, PlayStation 4, Xbox One",
+    "releaseDate": "2016-02-16"
+  },
+  {
+    "title": "Layers of Fear 2",
+    "genre": "Walking simulator",
+    "developerPublisher": "Bloober Team",
+    "platform": "Windows, PlayStation 4, Xbox One",
+    "releaseDate": "2019-05-28"
+  },
+  {
+    "title": "Laser Ghost",
+    "genre": "Rail shooter",
+    "developerPublisher": "Sega",
+    "platform": "Arcade",
+    "releaseDate": "1989"
+  },
+  {
+    "title": "Laser Ghost",
+    "genre": "Shoot 'em up",
+    "developerPublisher": "Sega",
+    "platform": "Master System",
+    "releaseDate": "1991"
+  },
+  {
+    "title": "Left 4 Dead",
+    "genre": "First-person shooter",
+    "developerPublisher": "Turtle Rock Studios",
+    "platform": "Windows, Xbox 360, OS X",
+    "releaseDate": "2008"
+  },
+  {
+    "title": "Left 4 Dead 2",
+    "genre": "First-person shooter",
+    "developerPublisher": "Turtle Rock Studios",
+    "platform": "Windows, Xbox 360, OS X, Linux",
+    "releaseDate": "2009"
+  },
+  {
+    "title": "The Legacy: Realm of Terror",
+    "genre": "Role-playing video game",
+    "developerPublisher": "Magnetic Scrolls",
+    "platform": "MS-DOS",
+    "releaseDate": "1993"
+  },
+  {
+    "title": "Legendary",
+    "genre": "First-person shooter",
+    "developerPublisher": "Spark Unlimited",
+    "platform": "Windows, Xbox 360",
+    "releaseDate": "2008-10-24"
+  },
+  {
+    "title": "Lethe",
+    "genre": "Adventure, stealth",
+    "developerPublisher": "Koukou Studios",
+    "platform": "Windows",
+    "releaseDate": "2016-08-01"
+  },
+  {
+    "title": "Lies of P",
+    "genre": "Soulslike, Action role-playing",
+    "developerPublisher": "Round8 Studio",
+    "platform": "Windows, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
+    "releaseDate": "2023-09-19"
+  },
+  {
+    "title": "Lifeline",
+    "genre": "Survival horror",
+    "developerPublisher": "Sony Computer Entertainment",
+    "platform": "PlayStation 2",
+    "releaseDate": "2003-01-30"
+  },
+  {
+    "title": "Limbo",
+    "genre": "Puzzle-platform",
+    "developerPublisher": "Playdead",
+    "platform": "Xbox 360, PlayStation3, Windows",
+    "releaseDate": "2010-07-21"
+  },
+  {
+    "title": "LIT",
+    "genre": "puzzle game",
+    "developerPublisher": "WayForward Technologies",
+    "platform": "WiiWare",
+    "releaseDate": "2009-12-22"
+  },
+  {
+    "title": "Little Nightmares",
+    "genre": "Puzzle-platform, psychological horror",
+    "developerPublisher": "Tarsier Studios",
+    "platform": "Windows, PlayStation 4, Xbox One, Nintendo Switch",
+    "releaseDate": "2017-05-28"
+  },
+  {
+    "title": "Little Nightmares II",
+    "genre": "Puzzle-platform, survival horror",
+    "developerPublisher": "Tarsier Studios",
+    "platform": "Windows, PlayStation 4, Xbox One, Nintendo Switch",
+    "releaseDate": "2021-02-11"
+  },
+  {
+    "title": "Lollipop Chainsaw",
+    "genre": "Hack and slash, action game",
+    "developerPublisher": "Grasshopper Manufacture",
+    "platform": "PlayStation 3, Xbox 360",
+    "releaseDate": "2012"
+  },
+  {
+    "title": "Lone Survivor",
+    "genre": "Survival horror",
+    "developerPublisher": "Superflat Games",
+    "platform": "Windows, OS X, Linux, PlayStation 3, PlayStation Vita, PlayStation 4, Wii U",
+    "releaseDate": "2012"
+  },
+  {
+    "title": "Lost in Vivo",
+    "genre": "Survival horror",
+    "developerPublisher": "Lag Studios",
+    "platform": "Windows",
+    "releaseDate": "2018-10-20"
+  },
+  {
+    "title": "Lost Within",
+    "genre": "Adventure, supernatural",
+    "developerPublisher": "Human Head Studios, Amazon Game Studios",
+    "platform": "iOS, Android (operating system)",
+    "releaseDate": "2015-04-16"
+  },
+  {
+    "title": "Lucius I",
+    "genre": "Adventure",
+    "developerPublisher": "Shiver Games",
+    "platform": "Windows",
+    "releaseDate": "2012-10-26"
+  },
+  {
+    "title": "Lucius II",
+    "genre": "Adventure",
+    "developerPublisher": "Shiver Games",
+    "platform": "Windows",
+    "releaseDate": "2015-02-15"
+  },
+  {
+    "title": "Lucius III",
+    "genre": "Adventure",
+    "developerPublisher": "Shiver Games",
+    "platform": "Windows",
+    "releaseDate": "2018-12-18"
+  },
+  {
+    "title": "The Lurking Horror",
+    "genre": "interactive fiction",
+    "developerPublisher": "Infocom",
+    "platform": "Amiga, Amstrad CPC/PCW, Apple II, Atari 8-bit, Atari ST, Commodore 64/128, Macintosh, MS-DOS",
+    "releaseDate": "1987-05-06"
+  },
+  {
+    "title": "Left to Rot",
+    "genre": "First-person adventure, psychological horror",
+    "developerPublisher": "Tarba Paul Cornel, Galactic Crows Media",
+    "platform": "PC, Windows",
+    "releaseDate": "2024"
+  },
+  {
+    "title": "Mård",
+    "genre": "Adventure, Survival game",
+    "developerPublisher": "Black Curtain Studio",
+    "platform": "Windows",
+    "releaseDate": "2019-05-31"
+  },
+  {
+    "title": "Mashou no Yakata: Goblin",
+    "genre": "Run and gun",
+    "developerPublisher": "Pony Canyon",
+    "platform": "MSX",
+    "releaseDate": "1987"
+  },
+  {
+    "title": "Manhunt",
+    "genre": "Survival horror, stealth, Third-person shooter",
+    "developerPublisher": "Rockstar North",
+    "platform": "PlayStation 2, Xbox, Windows",
+    "releaseDate": "2003-11-18"
+  },
+  {
+    "title": "Manhunt 2",
+    "genre": "Stealth, Third-person shooter",
+    "developerPublisher": "Rockstar Games",
+    "platform": "PlayStation 2, PlayStation Portable, Wii, Windows",
+    "releaseDate": "2007-10-29"
+  },
+  {
+    "title": "Martian Gothic: Unification",
+    "genre": "Survival horror",
+    "developerPublisher": "Creative Reality",
+    "platform": "Windows, PlayStation",
+    "releaseDate": "2000"
+  },
+  {
+    "title": "Master of Darkness",
+    "genre": "Platform",
+    "developerPublisher": "SIMS",
+    "platform": "Game Gear, Master System",
+    "releaseDate": "1992"
+  },
+  {
+    "title": "The Medium",
+    "genre": "Psychological horror",
+    "developerPublisher": "Bloober Team",
+    "platform": "Windows, Xbox Series X and Series S",
+    "releaseDate": "2021-01-28"
+  },
+  {
+    "title": "Metro 2033",
+    "genre": "First-person shooter",
+    "developerPublisher": "4A Games",
+    "platform": "Windows, Xbox 360",
+    "releaseDate": "2010-03-16"
+  },
+  {
+    "title": "Metro: Last Light",
+    "genre": "First-person shooter",
+    "developerPublisher": "4A Games",
+    "platform": "Windows, Xbox 360, PS3",
+    "releaseDate": "2013-05-14"
+  },
+  {
+    "title": "Metro Exodus",
+    "genre": "First-person shooter",
+    "developerPublisher": "4A Games",
+    "platform": "PlayStation 4, Windows, Xbox One, Stadia, Linux, MacOS, PlayStation 5, Xbox Series X/S",
+    "releaseDate": "2019-02-15"
+  },
+  {
+    "title": "Michigan: Report from Hell",
+    "genre": "Adventure",
+    "developerPublisher": "Grasshopper Manufacture",
+    "platform": "PlayStation 2",
+    "releaseDate": "2004-08-05"
+  },
+  {
+    "title": "Mizzurna Falls",
+    "genre": "Adventure",
+    "developerPublisher": "Human Entertainment",
+    "platform": "PlayStation",
+    "releaseDate": "1998-12-23"
+  },
+  {
+    "title": "Musya",
+    "genre": "Adventure, platform",
+    "developerPublisher": "Jorudan",
+    "platform": "Super Nintendo Entertainment System",
+    "releaseDate": "1992-05-21"
+  },
+  {
+    "title": "Monster Bash",
+    "genre": "platform",
+    "developerPublisher": "Sega",
+    "platform": "Arcade",
+    "releaseDate": "1982"
+  },
+  {
+    "title": "Monster House",
+    "genre": "Action-adventure",
+    "developerPublisher": "Artificial Mind and Movement",
+    "platform": "PlayStation 2, Nintendo DS, GameCube, Game Boy Advance",
+    "releaseDate": "2006-07-18"
+  },
+  {
+    "title": "Monster House",
+    "genre": "Adventure",
+    "developerPublisher": "Nihon Falcom",
+    "platform": "Sharp MZ",
+    "releaseDate": "1984"
+  },
+  {
+    "title": "Monster Madness: Battle for Suburbia",
+    "genre": "Shoot 'em up",
+    "developerPublisher": "Artificial Studios, Immersion Games",
+    "platform": "Xbox 360, Windows",
+    "releaseDate": "2007-06-12"
+  },
+  {
+    "title": "Monster Madness: Grave Danger",
+    "genre": "Shoot 'em up",
+    "developerPublisher": "Psyonix Studios, Immersion Games",
+    "platform": "PlayStation 3",
+    "releaseDate": "2008-08-05"
+  },
+  {
+    "title": "Moonlight Syndrome",
+    "genre": "Adventure",
+    "developerPublisher": "Human Entertainment",
+    "platform": "PlayStation",
+    "releaseDate": "1997-10-09"
+  },
+  {
+    "title": "Murder House",
+    "genre": "Survival horror",
+    "developerPublisher": "Puppet Combo",
+    "platform": "PC, PlayStation 4, Xbox One, Nintendo Switch",
+    "releaseDate": "2020-10-23"
+  },
+  {
+    "title": "My Father's Long, Long Legs",
+    "genre": "Interactive fiction",
+    "developerPublisher": "Michael Lutz",
+    "platform": "",
+    "releaseDate": "2014"
+  },
+  {
+    "title": "Mystery House",
+    "genre": "Adventure",
+    "developerPublisher": "On-Line Systems",
+    "platform": "Apple II",
+    "releaseDate": "1980"
+  },
+  {
+    "title": "Mystic Nights",
+    "genre": "Survival horror",
+    "developerPublisher": "N-Log Corporation",
+    "platform": "PlayStation 2",
+    "releaseDate": "2005-09-29"
+  },
+  {
+    "title": "Nanashi no Game",
+    "genre": "First-person adventure, psychological horror",
+    "developerPublisher": "Epics",
+    "platform": "Nintendo DS",
+    "releaseDate": "2008-07-03"
+  },
+  {
+    "title": "Nanashi no Game: Me",
+    "genre": "First-person adventure, psychological horror",
+    "developerPublisher": "G-artists",
+    "platform": "Nintendo DS",
+    "releaseDate": "2009-07-27"
+  },
+  {
+    "title": "Necronomicon: The Dawning of Darkness",
+    "genre": "point-and-click, adventure",
+    "developerPublisher": "Cryo Interactive",
+    "platform": "Windows, PlayStation",
+    "releaseDate": "2001-05-11"
+  },
+  {
+    "title": "NecroVisioN",
+    "genre": "First-person shooter, alternate history",
+    "developerPublisher": "The Farm 51",
+    "platform": "Windows",
+    "releaseDate": "2009-02-20"
+  },
+  {
+    "title": "Negative Atmosphere",
+    "genre": "Third-person shooter",
+    "developerPublisher": "Sunscorched Studios Ltd",
+    "platform": "Windows",
+    "releaseDate": "2019"
+  },
+  {
+    "title": "NightCry",
+    "genre": "Survival horror",
+    "developerPublisher": "Nude Maker",
+    "platform": "PC",
+    "releaseDate": "2016-03-29"
+  },
+  {
+    "title": "Nightfall: Escape",
+    "genre": "First-person adventure, psychological horror",
+    "developerPublisher": "Zeenoh",
+    "platform": "Windows, macOS, Linux",
+    "releaseDate": "2016-06-26"
+  },
+  {
+    "title": "Night Slashers",
+    "genre": "Beat'em up",
+    "developerPublisher": "Data East",
+    "platform": "Arcade",
+    "releaseDate": "1993-09"
+  },
+  {
+    "title": "Night Stalker",
+    "genre": "Beat 'em up",
+    "developerPublisher": "Mattel",
+    "platform": "Intellivision",
+    "releaseDate": "1982"
+  },
+  {
+    "title": "Nightmare Creatures",
+    "genre": "Beat 'em up, action adventure, Gothic horror",
+    "developerPublisher": "Kalisto Entertainment",
+    "platform": "PlayStation, Windows, Nintendo 64, Mobile Phone",
+    "releaseDate": "1997-09-30"
+  },
+  {
+    "title": "Nightmare Creatures II",
+    "genre": "Beat 'em up, action adventure, Gothic horror",
+    "developerPublisher": "Kalisto Entertainment",
+    "platform": "PlayStation, Dreamcast",
+    "releaseDate": "2000"
+  },
+  {
+    "title": "A Nightmare on Elm Street",
+    "genre": "platform",
+    "developerPublisher": "Rare",
+    "platform": "Nintendo Entertainment System",
+    "releaseDate": "1990"
+  },
+  {
+    "title": "Night of the Nun",
+    "genre": "First-person adventure",
+    "developerPublisher": "Puppet Combo",
+    "platform": "Windows",
+    "releaseDate": "2018-09-23"
+  },
+  {
+    "title": "The Nightfall",
+    "genre": "Survival horror, psychological horror",
+    "developerPublisher": "VIS-Games",
+    "platform": "Windows",
+    "releaseDate": "2018-01-12"
+  },
+  {
+    "title": "Nitemare 3D",
+    "genre": "First-person shooter",
+    "developerPublisher": "Gray Design Associates",
+    "platform": "MS-DOS, Windows",
+    "releaseDate": "1994-05-17"
+  },
+  {
+    "title": "NOCT",
+    "genre": "Survival horror, Survival game, top-down shooter",
+    "developerPublisher": "C3SK",
+    "platform": "Windows",
+    "releaseDate": "2015-10-10"
+  },
+  {
+    "title": "Nocturne",
+    "genre": "Survival horror, adventure",
+    "developerPublisher": "Terminal Reality",
+    "platform": "Windows",
+    "releaseDate": "1999-10-31"
+  },
+  {
+    "title": "Nostromo",
+    "genre": "Survival horror",
+    "developerPublisher": "Akira Takiguchi",
+    "platform": "PET 2001, PC-6001",
+    "releaseDate": "1981-12"
+  },
+  {
+    "title": "Northbury Grove",
+    "genre": "Survival horror, stealth",
+    "developerPublisher": "Scythe Dev Team",
+    "platform": "Windows",
+    "releaseDate": "2018-10-01"
+  },
+  {
+    "title": "Northbury Grove: King's Comfort",
+    "genre": "Survival horror, stealth",
+    "developerPublisher": "Scythe Dev Team",
+    "platform": "Windows",
+    "releaseDate": "2019-11-29"
+  },
+  {
+    "title": "Nosferatu: The Wrath of Malachi",
+    "genre": "Survival horror, first-person shooter, Roguelike",
+    "developerPublisher": "Idol FX",
+    "platform": "Windows",
+    "releaseDate": "2003-10-21"
+  },
+  {
+    "title": "Nosferatu the Vampyre",
+    "genre": "platform",
+    "developerPublisher": "Piranha",
+    "platform": "Amstrad CPC, Commodore 64, ZX Spectrum",
+    "releaseDate": "1986"
+  },
+  {
+    "title": "Nosferatu",
+    "genre": "platform, Beat'em up",
+    "developerPublisher": "SETA Corporation",
+    "platform": "Super Nintendo Entertainment System",
+    "releaseDate": "1994"
+  },
+  {
+    "title": "The Note",
+    "genre": "Adventure, survival horror",
+    "developerPublisher": "Team Bughouse",
+    "platform": "PlayStation",
+    "releaseDate": "1997-01-17"
+  },
+  {
+    "title": "ObsCure",
+    "genre": "Survival horror",
+    "developerPublisher": "Hydravision Entertainment",
+    "platform": "PlayStation 2, Xbox, Windows",
+    "releaseDate": "2004-10-01"
+  },
+  {
+    "title": "ObsCure II",
+    "genre": "Survival horror",
+    "developerPublisher": "Hydravision Entertainment",
+    "platform": "Windows, PlayStation 2, Wii, PlayStation Portable",
+    "releaseDate": "2007-09-07"
+  },
+  {
+    "title": "Off",
+    "genre": "Psychological horror",
+    "developerPublisher": "Unproductive Fun Time",
+    "platform": "Windows",
+    "releaseDate": "2008-06-05"
+  },
+  {
+    "title": "Omori",
+    "genre": "Role-playing, psychological horror",
+    "developerPublisher": "OMOCAT",
+    "platform": "Windows, macOS, Xbox One, Xbox Series X/S, Nintendo Switch, PlayStation 4",
+    "releaseDate": "2020-12-25"
+  },
+  {
+    "title": "Observer (stylized \">Observer_\")",
+    "genre": "Adventure Walking simulator, psychological horror, science fiction, Cyberpunk",
+    "developerPublisher": "Bloober Team, Aspyr",
+    "platform": "Windows, Linux, macOS, PlayStation 4, Xbox One",
+    "releaseDate": "2017-08-15"
+  },
+  {
+    "title": "One Late Night",
+    "genre": "Adventure, psychological horror",
+    "developerPublisher": "Black Curtain Studio",
+    "platform": "Windows, Linux, OS X",
+    "releaseDate": "2013-01-29"
+  },
+  {
+    "title": "Onimusha: Warlords",
+    "genre": "Survival horror, hack and slash",
+    "developerPublisher": "Capcom",
+    "platform": "PlayStation 2, Xbox, Windows",
+    "releaseDate": "2001-01-25"
+  },
+  {
+    "title": "Onimusha 2: Samurai's Destiny",
+    "genre": "Hack and slash, action adventure",
+    "developerPublisher": "Capcom",
+    "platform": "PlayStation 2, Windows",
+    "releaseDate": "2002-05-07"
+  },
+  {
+    "title": "Onimusha 3: Demon Siege",
+    "genre": "Hack and slash, action adventure",
+    "developerPublisher": "Capcom",
+    "platform": "PlayStation 2, Windows",
+    "releaseDate": "2004-04-26"
+  },
+  {
+    "title": "Outbreak: The New Nightmare",
+    "genre": "Survival horror",
+    "developerPublisher": "Dead Drop Studios LLC",
+    "platform": "Windows, Xbox One",
+    "releaseDate": "2018-01-05"
+  },
+  {
+    "title": "Outbreak: The Nightmare Chronicles",
+    "genre": "Survival horror",
+    "developerPublisher": "Dead Drop Studios LLC",
+    "platform": "Windows",
+    "releaseDate": "2018-04-02"
+  },
+  {
+    "title": "Outbreak: Lost Hope",
+    "genre": "Survival horror",
+    "developerPublisher": "Dead Drop Studios LLC",
+    "platform": "Windows",
+    "releaseDate": "2019-04-22"
+  },
+  {
+    "title": "Outlast",
+    "genre": "Adventure, psychological horror",
+    "developerPublisher": "Red Barrels",
+    "platform": "Windows, Xbox One, PlayStation 4",
+    "releaseDate": "2013-09-04"
+  },
+  {
+    "title": "Outlast 2",
+    "genre": "Adventure, psychological horror",
+    "developerPublisher": "Red Barrels",
+    "platform": "Windows, Xbox One, PlayStation 4",
+    "releaseDate": "2017-04-25"
+  },
+  {
+    "title": "OverBlood",
+    "genre": "Survival horror, science fiction",
+    "developerPublisher": "Riverhillsoft",
+    "platform": "PlayStation",
+    "releaseDate": "1997-05-22"
+  },
+  {
+    "title": "Pandorum",
+    "genre": "Third-person shooter",
+    "developerPublisher": "Artificial Life, Inc.",
+    "platform": "iOS",
+    "releaseDate": "2009-10-15"
+  },
+  {
+    "title": "The Park",
+    "genre": "Adventure",
+    "developerPublisher": "Funcom",
+    "platform": "Windows, PlayStation 4, Xbox One",
+    "releaseDate": "2015-10-27"
+  },
+  {
+    "title": "Paratopic",
+    "genre": "Walking simulator, psychological horror, cosmic horror",
+    "developerPublisher": "Arbitrary Metric",
+    "platform": "Windows",
+    "releaseDate": "2018-09-06"
+  },
+  {
+    "title": "Paracusia",
+    "genre": "Survival horror, adventure",
+    "developerPublisher": "DarknetFoxes",
+    "platform": "Windows",
+    "releaseDate": "2018"
+  },
+  {
+    "title": "Paranoid",
+    "genre": "Survival horror",
+    "developerPublisher": "Madmind Studio",
+    "platform": "Windows",
+    "releaseDate": "?"
+  },
+  {
+    "title": "Parasite Eve",
+    "genre": "survival horror, Action role-playing, Body horror",
+    "developerPublisher": "Square Usa, Inc.",
+    "platform": "PlayStation",
+    "releaseDate": "1998-03-29"
+  },
+  {
+    "title": "Parasite Eve II",
+    "genre": "survival horror, Action role-playing, Body horror",
+    "developerPublisher": "Squaresoft, Inc.",
+    "platform": "PlayStation",
+    "releaseDate": "1999-12-06"
+  },
+  {
+    "title": "The 3rd Birthday (Parasite Eve 3)",
+    "genre": "Action role-playing, Third-person shooter",
+    "developerPublisher": "Square Enix, HexaDrive",
+    "platform": "PlayStation Portable",
+    "releaseDate": "2010-12-22"
+  },
+  {
+    "title": "The Padre",
+    "genre": "Survival horror, Parody",
+    "developerPublisher": "Shotgun with Glitters",
+    "platform": "Windows",
+    "releaseDate": "2019-04-18"
+  },
+  {
+    "title": "The Path",
+    "genre": "Walking simulator",
+    "developerPublisher": "Tale of Tales",
+    "platform": "Windows, OS X",
+    "releaseDate": "2009-03-18"
+  },
+  {
+    "title": "Pathologic",
+    "genre": "Survival game, Role-playing game, Immersive sim, adventure, psychological horror, cosmic horror",
+    "developerPublisher": "Ice-Pick Lodge",
+    "platform": "Windows",
+    "releaseDate": "2005-06-09"
+  },
+  {
+    "title": "Penumbra Episode One: Overture",
+    "genre": "Survival horror, first-person shooter",
+    "developerPublisher": "Frictional Games",
+    "platform": "Windows, Linux, OS X",
+    "releaseDate": "2007-03-30"
+  },
+  {
+    "title": "Penumbra Episode Two: Black Plague",
+    "genre": "Adventure, psychological horror, cosmic horror",
+    "developerPublisher": "Frictional Games",
+    "platform": "Windows, Linux, OS X",
+    "releaseDate": "2008-02-12"
+  },
+  {
+    "title": "Perception",
+    "genre": "Adventure, psychological horror",
+    "developerPublisher": "The Deep End Games",
+    "platform": "Windows, Nintendo Switch, PlayStation 4, Xbox One",
+    "releaseDate": "2017-05-30"
+  },
+  {
+    "title": "The Persistence",
+    "genre": "Action-adventure game, Roguelike, science fiction",
+    "developerPublisher": "Firesprite",
+    "platform": "PlayStation 4",
+    "releaseDate": "2018-07-24"
+  },
+  {
+    "title": "Phantom Slayer",
+    "genre": "First-person shooter, adventure, Maze game",
+    "developerPublisher": "Med Systems",
+    "platform": "TRS-80 Color Computer, Dragon 32/64",
+    "releaseDate": "1982"
+  },
+  {
+    "title": "Phantasmagoria",
+    "genre": "Point-and-click",
+    "developerPublisher": "Sierra On-Line, Kronos Digital Entertainment",
+    "platform": "MS-DOS, Windows, OS X, Sega Saturn",
+    "releaseDate": "1995-07-31"
+  },
+  {
+    "title": "Phasmophobia",
+    "genre": "First-person",
+    "developerPublisher": "Kinetic Games",
+    "platform": "Windows",
+    "releaseDate": "2020-09-18"
+  },
+  {
+    "title": "Phantasmagoria: A Puzzle of Flesh",
+    "genre": "Point-and-click",
+    "developerPublisher": "Sierra Entertainment",
+    "platform": "MS-DOS, Windows",
+    "releaseDate": "1996-11-30"
+  },
+  {
+    "title": "Pineview Drive",
+    "genre": "Adventure",
+    "developerPublisher": "VIS Games",
+    "platform": "Windows, Linux",
+    "releaseDate": "2014-07-31"
+  },
+  {
+    "title": "A Plague Tale: Innocence",
+    "genre": "Action-adventure game",
+    "developerPublisher": "Asobo Studio",
+    "platform": "Windows",
+    "releaseDate": "2019-05-14"
+  },
+  {
+    "title": "Poppy Playtime",
+    "genre": "Survival horror, puzzle",
+    "developerPublisher": "MOB Games",
+    "platform": "Windows, Android, iOS",
+    "releaseDate": "2021"
+  },
+  {
+    "title": "Postal",
+    "genre": "Top-down shooter, psychological horror",
+    "developerPublisher": "Running With Scissors",
+    "platform": "Windows, Mac OS, Dreamcast, Android",
+    "releaseDate": "1997-09-24"
+  },
+  {
+    "title": "Predator: Hunting Grounds",
+    "genre": "Asymmetric survival horror, first-person shooter",
+    "developerPublisher": "IllFonic",
+    "platform": "PlayStation 4",
+    "releaseDate": "2020-04-24"
+  },
+  {
+    "title": "Prey",
+    "genre": "Immersive sim, survival horror, action adventure, first-person shooter, science fiction",
+    "developerPublisher": "Arkane Studios",
+    "platform": "Windows, PlayStation 4, Xbox One",
+    "releaseDate": "2017-05-05"
+  },
+  {
+    "title": "Power Drill Massacre",
+    "genre": "Adventure games",
+    "developerPublisher": "Puppet Combo",
+    "platform": "Windows",
+    "releaseDate": "2015"
+  },
+  {
+    "title": "Project Abel",
+    "genre": "Survival horror, alternate history",
+    "developerPublisher": "Abeldev",
+    "platform": "Windows",
+    "releaseDate": "2019"
+  },
+  {
+    "title": "Project Firestart",
+    "genre": "Survival horror, science fiction",
+    "developerPublisher": "Dynamix",
+    "platform": "Commodore 64",
+    "releaseDate": "1989"
+  },
+  {
+    "title": "Project Xenoclone",
+    "genre": "Action game, top-down shooter",
+    "developerPublisher": "Oniric Games",
+    "platform": "Windows",
+    "releaseDate": "2006"
+  },
+  {
+    "title": "Prototype Mansion",
+    "genre": "Survival horror, Parody",
+    "developerPublisher": "Jupiter Lighthouse Games",
+    "platform": "Windows",
+    "releaseDate": "2018-07-19"
+  },
+  {
+    "title": "Puppet Master: The Game",
+    "genre": "Survival horror",
+    "developerPublisher": "October Games",
+    "platform": "Microsoft Windows",
+    "releaseDate": "2023-03-01"
+  },
+  {
+    "title": "The Quarry",
+    "genre": "Interactive drama, survival horror",
+    "developerPublisher": "Supermassive Games",
+    "platform": "Windows, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
+    "releaseDate": "2022-06-10"
+  },
+  {
+    "title": "The Queen Anne's Revenge",
+    "genre": "Browser game",
+    "developerPublisher": "Arrowshot Games",
+    "platform": "Browser",
+    "releaseDate": "2013"
+  },
+  {
+    "title": "A Quiet Place",
+    "genre": "Survival horror",
+    "developerPublisher": "iLLOGIKA, EP1T0ME Studios Inc., Paramount Pictures Corporation",
+    "platform": "TBA",
+    "releaseDate": "TBA"
+  },
+  {
+    "title": "Rake",
+    "genre": "Hunting game",
+    "developerPublisher": "Konsordo",
+    "platform": "Windows",
+    "releaseDate": "2015-13-07"
+  },
+  {
+    "title": "The Rats",
+    "genre": "Interactive fiction",
+    "developerPublisher": "Hodder & Stoughton",
+    "platform": "Commodore 64, ZX Spectrum",
+    "releaseDate": "1985"
+  },
+  {
+    "title": "Realms of the Haunting",
+    "genre": "First-person shooter",
+    "developerPublisher": "Gremlin Interactive",
+    "platform": "Windows 95",
+    "releaseDate": "1996-11-28"
+  },
+  {
+    "title": "Reikoku : Kizoku Ikeda's Psychics Laboratory",
+    "genre": "First-person adventure",
+    "developerPublisher": "Infinity",
+    "platform": "PlayStation",
+    "releaseDate": "2000"
+  },
+  {
+    "title": "Remothered: Tormented Fathers",
+    "genre": "Survival horror, stealth",
+    "developerPublisher": "Darril Arts",
+    "platform": "PlayStation 4, Xbox One, Windows",
+    "releaseDate": "2018-1-30"
+  },
+  {
+    "title": "Remothered: Broken Porcelain",
+    "genre": "Survival horror, stealth",
+    "developerPublisher": "Darril Arts Modus Games",
+    "platform": "PlayStation 4, Xbox One, Windows",
+    "releaseDate": "2020-10-13"
+  },
+  {
+    "title": "République",
+    "genre": "Stealth, point-and-click, science fiction, Cyberpunk",
+    "developerPublisher": "Camouflaj",
+    "platform": "Windows",
+    "releaseDate": "2016"
+  },
+  {
+    "title": "Resident Evil Zero",
+    "genre": "Survival horror",
+    "developerPublisher": "Capcom",
+    "platform": "GameCube, Wii, Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
+    "releaseDate": "2002-11-12"
+  },
+  {
+    "title": "Resident Evil",
+    "genre": "Survival horror",
+    "developerPublisher": "Capcom",
+    "platform": "PlayStation, Windows, Sega Saturn, Nintendo DS",
+    "releaseDate": "1996-03-22"
+  },
+  {
+    "title": "Resident Evil (remake)",
+    "genre": "Survival horror",
+    "developerPublisher": "Capcom",
+    "platform": "GameCube, Nintendo Wii, Xbox 360, PlayStation 3, Windows, Xbox One, PlayStation 4",
+    "releaseDate": "2002-03-22"
+  },
+  {
+    "title": "Resident Evil 2",
+    "genre": "Survival horror",
+    "developerPublisher": "Capcom",
+    "platform": "PlayStation, Windows, Nintendo 64, Dreamcast, GameCube",
+    "releaseDate": "1998-01-21"
+  },
+  {
+    "title": "Resident Evil 2 (remake)",
+    "genre": "Survival horror",
+    "developerPublisher": "Capcom",
+    "platform": "PlayStation 4, Xbox One, Windows",
+    "releaseDate": "2019-1-25"
+  },
+  {
+    "title": "Resident Evil 3: Nemesis",
+    "genre": "Survival horror",
+    "developerPublisher": "Capcom",
+    "platform": "PlayStation, Dreamcast, Windows, GameCube",
+    "releaseDate": "1999-09-22"
+  },
+  {
+    "title": "Resident Evil 3",
+    "genre": "Survival horror",
+    "developerPublisher": "Capcom",
+    "platform": "PlayStation 4, Windows, Xbox One",
+    "releaseDate": "2020-04-03"
+  },
+  {
+    "title": "Resident Evil ‒ Code: Veronica",
+    "genre": "Survival horror",
+    "developerPublisher": "Capcom",
+    "platform": "Dreamcast, PlayStation 2, GameCube, Xbox 360, PlayStation 3",
+    "releaseDate": "2000"
+  },
+  {
+    "title": "Resident Evil 4",
+    "genre": "Third-person shooter, survival horror",
+    "developerPublisher": "Capcom",
+    "platform": "GameCube, PlayStation 2, Windows, Nintendo Wii, PlayStation 3, Xbox 360",
+    "releaseDate": "2005-01-11"
+  },
+  {
+    "title": "Resident Evil 4 (remake)",
+    "genre": "Survival horror",
+    "developerPublisher": "Capcom",
+    "platform": "Windows, PlayStation 5, Xbox Series X and Series S",
+    "releaseDate": "2023-3-24"
+  },
+  {
+    "title": "Resident Evil 5",
+    "genre": "Third-person shooter",
+    "developerPublisher": "Capcom",
+    "platform": "PlayStation 3, Xbox 360, Windows",
+    "releaseDate": "2009-03-05"
+  },
+  {
+    "title": "Resident Evil 6",
+    "genre": "Third-person shooter",
+    "developerPublisher": "Capcom",
+    "platform": "PlayStation 3, Xbox 360 Windows",
+    "releaseDate": "2012-10-02"
+  },
+  {
+    "title": "Resident Evil 7: Biohazard",
+    "genre": "Survival horror, Gothic horror",
+    "developerPublisher": "Capcom",
+    "platform": "PlayStation 4, Xbox One, Windows",
+    "releaseDate": "2017-1-24"
+  },
+  {
+    "title": "Resident Evil Village",
+    "genre": "Survival horror, Gothic horror",
+    "developerPublisher": "Capcom",
+    "platform": "PlayStation 5, PlayStation 4, Windows, Xbox One, Xbox Series X and Series S",
+    "releaseDate": "2021-5-7"
+  },
+  {
+    "title": "Resident Evil: The Mercenaries 3D",
+    "genre": "Third-person shooter",
+    "developerPublisher": "TOSE",
+    "platform": "Nintendo 3DS",
+    "releaseDate": "2011-06-11"
+  },
+  {
+    "title": "Resident Evil: Operation Raccoon City",
+    "genre": "Third-person shooter, survival horror",
+    "developerPublisher": "Slant Six Games, Capcom",
+    "platform": "PlayStation 3, Xbox 360, Microsoft Windows",
+    "releaseDate": "2012-03-20"
+  },
+  {
+    "title": "Resident Evil Outbreak",
+    "genre": "Survival horror, Multiplayer",
+    "developerPublisher": "Capcom",
+    "platform": "PlayStation 2",
+    "releaseDate": "2003-12-11"
+  },
+  {
+    "title": "Resident Evil Outbreak: File #2",
+    "genre": "Survival horror, Multiplayer",
+    "developerPublisher": "Capcom",
+    "platform": "PlayStation 2",
+    "releaseDate": "2004-10-09"
+  },
+  {
+    "title": "Resident Evil: Resistance",
+    "genre": "Survival horror",
+    "developerPublisher": "NeoBards Entertainment",
+    "platform": "PlayStation 4, Windows, Xbox One",
+    "releaseDate": "2020-04-03"
+  },
+  {
+    "title": "Resident Evil RE:Verse",
+    "genre": "Multiplayer, survival horror",
+    "developerPublisher": "Capcom",
+    "platform": "Windows, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X and Series S",
+    "releaseDate": "2022-10-28"
+  },
+  {
+    "title": "Resident Evil Survivor",
+    "genre": "First-person shooter",
+    "developerPublisher": "Capcom, TOSE",
+    "platform": "PlayStation",
+    "releaseDate": "2000"
+  },
+  {
+    "title": "Resident Evil Survivor 2 – Code: Veronica",
+    "genre": "Light gun shooter, first-person shooter",
+    "developerPublisher": "Capcom, Namco, Nextech, SIMS Co., Ltd.",
+    "platform": "Arcade, PlayStation 2",
+    "releaseDate": "2001-11-08"
+  },
+  {
+    "title": "Resident Evil: Dead Aim",
+    "genre": "First-person shooter/Third-person shooter",
+    "developerPublisher": "Capcom, Cavia",
+    "platform": "PlayStation 2",
+    "releaseDate": "2003-02-13"
+  },
+  {
+    "title": "Resident Evil Gaiden",
+    "genre": "Action-adventure",
+    "developerPublisher": "Capcom, M4",
+    "platform": "Game Boy Color",
+    "releaseDate": "2001-12-14"
+  },
+  {
+    "title": "Resident Evil: Revelations",
+    "genre": "Survival horror",
+    "developerPublisher": "Capcom",
+    "platform": "PlayStation 3, Xbox 360 Windows",
+    "releaseDate": "2012-01-27"
+  },
+  {
+    "title": "Resident Evil: Revelations 2",
+    "genre": "Survival horror",
+    "developerPublisher": "Capcom",
+    "platform": "Windows, PlayStation 3, PlayStation 4, PlayStation Vita, Xbox 360, Xbox One",
+    "releaseDate": "2015-03-20"
+  },
+  {
+    "title": "Resident Evil: The Umbrella Chronicles",
+    "genre": "Rail shooter",
+    "developerPublisher": "Capcom, Cavia",
+    "platform": "PlayStation 3, Wii",
+    "releaseDate": "2007-11-13"
+  },
+  {
+    "title": "Resident Evil: The Darkside Chronicles",
+    "genre": "Rail shooter",
+    "developerPublisher": "Cavia",
+    "platform": "PlayStation 3, Wii",
+    "releaseDate": "2009-11-17"
+  },
+  {
+    "title": "Umbrella Corps",
+    "genre": "Tactical shooter",
+    "developerPublisher": "Capcom",
+    "platform": "Microsoft Windows, PlayStation 4",
+    "releaseDate": "2016-06-21"
+  },
+  {
+    "title": "Resistance: Fall of Man",
+    "genre": "First-person shooter",
+    "developerPublisher": "Insomniac Games",
+    "platform": "PlayStation 3",
+    "releaseDate": "2006-11-11"
+  },
+  {
+    "title": "Resistance 2",
+    "genre": "First-person shooter",
+    "developerPublisher": "Insomniac Games",
+    "platform": "PlayStation 3",
+    "releaseDate": "2008-11-04"
+  },
+  {
+    "title": "Resistance 3",
+    "genre": "First-person shooter",
+    "developerPublisher": "Insomniac Games",
+    "platform": "PlayStation 3",
+    "releaseDate": "2011-09-06"
+  },
+  {
+    "title": "Returnal",
+    "genre": "Third-person shooter, Roguelike, psychological horror",
+    "developerPublisher": "Housemarque",
+    "platform": "PlayStation 5",
+    "releaseDate": "2021-04-30"
+  },
+  {
+    "title": "The Ring: Terror's Realm",
+    "genre": "Survival horror",
+    "developerPublisher": "Asmik Ace Entertainment, Nurding Group",
+    "platform": "Dreamcast",
+    "releaseDate": "2000"
+  },
+  {
+    "title": "Rise of Nightmares",
+    "genre": "Survival horror",
+    "developerPublisher": "Sega",
+    "platform": "Xbox 360 Kinect",
+    "releaseDate": "2011-09-06"
+  },
+  {
+    "title": "Run Like Hell",
+    "genre": "Survival horror, Third-person shooter",
+    "developerPublisher": "Digital Mayhem",
+    "platform": "PlayStation 2, Xbox",
+    "releaseDate": "2002-09-27"
+  },
+  {
+    "title": "Rule of Rose",
+    "genre": "Survival horror",
+    "developerPublisher": "Punchline",
+    "platform": "PlayStation 2",
+    "releaseDate": "2006-01-19"
+  },
+  {
+    "title": "Robert D. Anderson and the Legacy of Cthulhu",
+    "genre": "First-person shooter",
+    "developerPublisher": "Homegrown Games",
+    "platform": "Windows",
+    "releaseDate": "2007-06-01"
+  },
+  {
+    "title": "Sagebrush",
+    "genre": "Walking simulator",
+    "developerPublisher": "Redact Games",
+    "platform": "Windows",
+    "releaseDate": "2018-09-18"
+  },
+  {
+    "title": "Sanitarium",
+    "genre": "point-and-click",
+    "developerPublisher": "DreamForge Intertainment",
+    "platform": "Windows",
+    "releaseDate": "1998-04-30"
+  },
+  {
+    "title": "Sally Face",
+    "genre": "adventure",
+    "developerPublisher": "Portable Moose",
+    "platform": "Nintendo Switch, Windows, macOS, PlayStation 4, PlayStation 5",
+    "releaseDate": "2016-2019"
+  },
+  {
+    "title": "Saw",
+    "genre": "Survival horror",
+    "developerPublisher": "Zombie Studios",
+    "platform": "Windows, PlayStation 3, Xbox 360",
+    "releaseDate": "2009-10-06"
+  },
+  {
+    "title": "Saw II: Flesh & Blood",
+    "genre": "survival horror",
+    "developerPublisher": "Zombie Studios",
+    "platform": "PlayStation 3, Xbox 360",
+    "releaseDate": "2010-10-19"
+  },
+  {
+    "title": "Scary Tales Vol. 1",
+    "genre": "Adventure",
+    "developerPublisher": "Puppet Combo",
+    "platform": "Windows",
+    "releaseDate": "2019"
+  },
+  {
+    "title": "SCP – Containment Breach",
+    "genre": "Adventure",
+    "developerPublisher": "Joonas Rikkonen",
+    "platform": "Windows",
+    "releaseDate": "2012"
+  },
+  {
+    "title": "Scratches",
+    "genre": "Adventure, point-and-click, psychological horror",
+    "developerPublisher": "Nucleosys",
+    "platform": "PC",
+    "releaseDate": "2006-03-08"
+  },
+  {
+    "title": "Scorn",
+    "genre": "First-person shooter, cosmic horror",
+    "developerPublisher": "Ebb Software",
+    "platform": "Windows",
+    "releaseDate": "2022-10-14"
+  },
+  {
+    "title": "The Screamer",
+    "genre": "Action role-playing game",
+    "developerPublisher": "Magical Zoo",
+    "platform": "NEC PC-8801",
+    "releaseDate": "1985"
+  },
+  {
+    "title": "Shadow Man",
+    "genre": "Action-adventure game",
+    "developerPublisher": "Acclaim Studios Teesside",
+    "platform": "Nintendo 64, Dreamcast, PlayStation, Windows",
+    "releaseDate": "1999-07-31"
+  },
+  {
+    "title": "Shadows of the Damned",
+    "genre": "Action game, Third-person shooter",
+    "developerPublisher": "Grasshopper Manufacture",
+    "platform": "PlayStation 3, Xbox 360",
+    "releaseDate": "2011-06-21"
+  },
+  {
+    "title": "Shark Jaws",
+    "genre": "Adventure",
+    "developerPublisher": "Atari",
+    "platform": "Arcade",
+    "releaseDate": "1975"
+  },
+  {
+    "title": "Search Party",
+    "genre": "Survival horror",
+    "developerPublisher": "Lum",
+    "platform": "Windows",
+    "releaseDate": "2019-05-18"
+  },
+  {
+    "title": "Shiryou Sensen: War of the Dead",
+    "genre": "Survival horror, Action role-playing game",
+    "developerPublisher": "Fun Factory",
+    "platform": "MSX2, NEC PC-8801, PC Engine",
+    "releaseDate": "1987"
+  },
+  {
+    "title": "Shiryou Sensen: War of the Dead Part 2",
+    "genre": "Survival horror, Action role-playing game",
+    "developerPublisher": "Fun Factory",
+    "platform": "MSX2, NEC PC-8801, PC Engine",
+    "releaseDate": "1988"
+  },
+  {
+    "title": "Signalis",
+    "genre": "Survival horror, psychological horror",
+    "developerPublisher": "rose-engine",
+    "platform": "Windows, PC, PlayStation 4, Xbox One, Nintendo Switch",
+    "releaseDate": "2022-10-27"
+  },
+  {
+    "title": "Silent Hill",
+    "genre": "Survival horror, psychological horror",
+    "developerPublisher": "Team Silent",
+    "platform": "PlayStation, PlayStation Network",
+    "releaseDate": "1999-01-31"
+  },
+  {
+    "title": "Silent Hill 2",
+    "genre": "Survival horror, psychological horror",
+    "developerPublisher": "Team Silent",
+    "platform": "PlayStation 2, Xbox, Windows, PlayStation 3, Xbox 360",
+    "releaseDate": "2001-09-24"
+  },
+  {
+    "title": "Silent Hill 2 (remake)",
+    "genre": "Survival horror, psychological horror",
+    "developerPublisher": "Bloober Team",
+    "platform": "PlayStation 5, Windows",
+    "releaseDate": "TBA"
+  },
+  {
+    "title": "Silent Hill 3",
+    "genre": "Survival horror, psychological horror",
+    "developerPublisher": "Team Silent",
+    "platform": "PlayStation 2, Windows, PlayStation 3, Xbox 360",
+    "releaseDate": "2003-05-23"
+  },
+  {
+    "title": "Silent Hill 4: The Room",
+    "genre": "Survival horror, psychological horror",
+    "developerPublisher": "Team Silent",
+    "platform": "PlayStation 2, Windows, Xbox",
+    "releaseDate": "2004-06-17"
+  },
+  {
+    "title": "Silent Hill: Origins",
+    "genre": "Survival horror",
+    "developerPublisher": "Climax Studios",
+    "platform": "PlayStation 2, PlayStation Portable",
+    "releaseDate": "2007-11-06"
+  },
+  {
+    "title": "Silent Hill: Shattered Memories",
+    "genre": "Adventure, psychological horror",
+    "developerPublisher": "Climax Studios",
+    "platform": "Wii, PlayStation 2, PlayStation Portable, PlayStation Network",
+    "releaseDate": "2009-12-08"
+  },
+  {
+    "title": "Silent Hill: Homecoming",
+    "genre": "Third-person shooter",
+    "developerPublisher": "Double Helix Games",
+    "platform": "Windows, PlayStation 3, Xbox 360",
+    "releaseDate": "2008-09-30"
+  },
+  {
+    "title": "Silent Hill: Downpour",
+    "genre": "Survival horror, psychological horror",
+    "developerPublisher": "Vatra Games",
+    "platform": "PlayStation 3, Xbox 360",
+    "releaseDate": "2012-03-13"
+  },
+  {
+    "title": "Silent Hill: Book of Memories",
+    "genre": "Hack and slash",
+    "developerPublisher": "WayForward Technologies",
+    "platform": "PlayStation Vita",
+    "releaseDate": "2012-08-16"
+  },
+  {
+    "title": "The Silent House",
+    "genre": "Adventure",
+    "developerPublisher": "Lowman",
+    "platform": "Windows",
+    "releaseDate": "2017"
+  },
+  {
+    "title": "The Sinking City",
+    "genre": "Action-adventure, survival horror",
+    "developerPublisher": "Frogwares",
+    "platform": "Windowsr, PlayStation 4",
+    "releaseDate": "2019-06-27"
+  },
+  {
+    "title": "Singularity",
+    "genre": "First-person shooter, science fiction",
+    "developerPublisher": "Raven Software",
+    "platform": "Windows, Xbox 360, PlayStation 3",
+    "releaseDate": "2010-06-25"
+  },
+  {
+    "title": "Forbidden Siren",
+    "genre": "Survival horror, Stealth game",
+    "developerPublisher": "Project Siren",
+    "platform": "PlayStation 2",
+    "releaseDate": "2003-11-06"
+  },
+  {
+    "title": "Forbidden Siren 2",
+    "genre": "Survival horror, Stealth game",
+    "developerPublisher": "Project Siren",
+    "platform": "PlayStation 2",
+    "releaseDate": "2006-02-09"
+  },
+  {
+    "title": "Siren: Blood Curse",
+    "genre": "Survival horror, Stealth game",
+    "developerPublisher": "Project Siren",
+    "platform": "PlayStation 3",
+    "releaseDate": "2008-07-24"
+  },
+  {
+    "title": "Sir, You Are Being Hunted",
+    "genre": "First-person shooter, Stealth game, open world",
+    "developerPublisher": "Big Robot",
+    "platform": "PC",
+    "releaseDate": "2014-05-01"
+  },
+  {
+    "title": "Slender: The Eight Pages",
+    "genre": "Adventure",
+    "developerPublisher": "Parsec Productions",
+    "platform": "Windows, OS X",
+    "releaseDate": "2012-06"
+  },
+  {
+    "title": "Slender: The Arrival",
+    "genre": "Adventure",
+    "developerPublisher": "Parsec Productions",
+    "platform": "Windows, OS X, Xbox 360, PlayStation 3",
+    "releaseDate": "2013-03"
+  },
+  {
+    "title": "Soft & Cuddly",
+    "genre": "Arcade Adventure",
+    "developerPublisher": "The Power House",
+    "platform": "ZX Spectrum",
+    "releaseDate": "1987-09"
+  },
+  {
+    "title": "SOMA",
+    "genre": "First-person adventure, science fiction, psychological horror, body horror",
+    "developerPublisher": "Frictional Games",
+    "platform": "Linux, OS X, Windows, PlayStation 4",
+    "releaseDate": "2015-09-22"
+  },
+  {
+    "title": "Soul of the Samurai",
+    "genre": "Action-adventure",
+    "developerPublisher": "Konami",
+    "platform": "PlayStation",
+    "releaseDate": "1999-04-28"
+  },
+  {
+    "title": "A Sound of Thunder",
+    "genre": "Survival horror, action adventure",
+    "developerPublisher": "Möbius Entertainment",
+    "platform": "Game Boy Advance",
+    "releaseDate": "2004-02-28"
+  },
+  {
+    "title": "The Space Between",
+    "genre": "Walking simulator, psychological horror",
+    "developerPublisher": "Chrstphfr",
+    "platform": "Windows",
+    "releaseDate": "2019-04-26"
+  },
+  {
+    "title": "Space Gun",
+    "genre": "Shoot 'em up, Rail Shooter, science fiction",
+    "developerPublisher": "Taito",
+    "platform": "Amiga, Arcade, Atari ST, Commodore 64, MS-DOS, PlayStation 2, Master System, Xbox, ZX Spectrum",
+    "releaseDate": "1990-10"
+  },
+  {
+    "title": "Splatterhouse",
+    "genre": "Beat 'em up",
+    "developerPublisher": "Namco",
+    "platform": "Arcade, PC Engine",
+    "releaseDate": "1988"
+  },
+  {
+    "title": "Splatterhouse 2",
+    "genre": "Beat 'em up",
+    "developerPublisher": "Namco",
+    "platform": "Sega Genesis",
+    "releaseDate": "1992"
+  },
+  {
+    "title": "Splatterhouse 3",
+    "genre": "Beat 'em up",
+    "developerPublisher": "Namco",
+    "platform": "Sega Genesis",
+    "releaseDate": "1993"
+  },
+  {
+    "title": "Splatterhouse",
+    "genre": "Beat 'em up, hack and slash",
+    "developerPublisher": "BottleRocket, Namco Bandai Games",
+    "platform": "PlayStation 3, Xbox 360",
+    "releaseDate": "2010-11-23"
+  },
+  {
+    "title": "Spooky's House of Jumpscares",
+    "genre": "Psychological horror, Parody",
+    "developerPublisher": "Lag Studios",
+    "platform": "Windows",
+    "releaseDate": "2015-07-28"
+  },
+  {
+    "title": "Summerford",
+    "genre": "Survival horror",
+    "developerPublisher": "Noisy Valley Studios",
+    "platform": "Windows",
+    "releaseDate": "TBA"
+  },
+  {
+    "title": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+    "genre": "First-person shooter, Immersive sim",
+    "developerPublisher": "GSC Game World",
+    "platform": "Windows",
+    "releaseDate": "2007"
+  },
+  {
+    "title": "S.T.A.L.K.E.R.: Clear Sky",
+    "genre": "First-person shooter, Immersive sim",
+    "developerPublisher": "GSC Game World",
+    "platform": "Windows",
+    "releaseDate": "2008"
+  },
+  {
+    "title": "S.T.A.L.K.E.R.: Call of Pripyat",
+    "genre": "First-person shooter, Immersive sim",
+    "developerPublisher": "GSC Game World",
+    "platform": "Windows",
+    "releaseDate": "2009"
+  },
+  {
+    "title": "The Suffering",
+    "genre": "First-person shooter/third-person shooter",
+    "developerPublisher": "Surreal Software",
+    "platform": "PlayStation 2, Xbox, Windows",
+    "releaseDate": "2004-03-09"
+  },
+  {
+    "title": "The Suffering: Ties That Bind",
+    "genre": "First-person shooter/third-person shooter",
+    "developerPublisher": "Surreal Software",
+    "platform": "PlayStation 2, Xbox, Windows",
+    "releaseDate": "2005-09-26"
+  },
+  {
+    "title": "Sweet Home",
+    "genre": "Action role-playing",
+    "developerPublisher": "Capcom",
+    "platform": "Nintendo Entertainment System",
+    "releaseDate": "1989-12-15"
+  },
+  {
+    "title": "Sylvio",
+    "genre": "Adventure",
+    "developerPublisher": "Apostrophe",
+    "platform": "Windows, OS X",
+    "releaseDate": "2015"
+  },
+  {
+    "title": "System Shock",
+    "genre": "First-person shooter, Immersive sim, science fiction, Body horror, Cyberpunk",
+    "developerPublisher": "Looking Glass Studios",
+    "platform": "MS-DOS, OS X, Windows",
+    "releaseDate": "1994-09-22"
+  },
+  {
+    "title": "System Shock 2",
+    "genre": "First-person shooter, Immersive sim, science fiction, Body horror",
+    "developerPublisher": "Irrational Games, Looking Glass Studios",
+    "platform": "PC, Windows",
+    "releaseDate": "1999-08-11"
+  },
+  {
+    "title": "Stasis",
+    "genre": "Adventure, point-and-click, science fiction",
+    "developerPublisher": "The Brotherhood",
+    "platform": "Windows",
+    "releaseDate": "2015-08-31"
+  },
+  {
+    "title": "Stay Still",
+    "genre": "Walking simulator, psychological horror",
+    "developerPublisher": "Tarba Paul Cornel, Galactic Crows Media",
+    "platform": "PC, Windows",
+    "releaseDate": "2023-01-06"
+  },
+  {
+    "title": "Stay Still 2",
+    "genre": "Walking simulator, psychological horror",
+    "developerPublisher": "Tarba Paul Cornel, Galactic Crows Media",
+    "platform": "PC, Windows",
+    "releaseDate": "2023"
+  },
+  {
+    "title": "Tattletail",
+    "genre": "Survival horror",
+    "developerPublisher": "Waygetter Electronics",
+    "platform": "Windows, Mac OS",
+    "releaseDate": "2016"
+  },
+  {
+    "title": "Tecmo's Deception: Invitation to Darkness",
+    "genre": "Strategy-RPG",
+    "developerPublisher": "Tecmo",
+    "platform": "PlayStation, PlayStation Network",
+    "releaseDate": "1996-06-25"
+  },
+  {
+    "title": "Terror House",
+    "genre": "Adventure",
+    "developerPublisher": "Bandai",
+    "platform": "Bandai LCD Solarpower",
+    "releaseDate": "1982"
+  },
+  {
+    "title": "Theresia",
+    "genre": "Visual novel, adventure, psychological horror",
+    "developerPublisher": "WorkJam",
+    "platform": "Nintendo DS, iOS",
+    "releaseDate": "2008-09-11"
+  },
+  {
+    "title": "Them & Us",
+    "genre": "Survival horror",
+    "developerPublisher": "Tendogames",
+    "platform": "Windows",
+    "releaseDate": "2019"
+  },
+  {
+    "title": "The Bornless",
+    "genre": "Horror Royale",
+    "developerPublisher": "Cathedral Studios",
+    "platform": "Windows",
+    "releaseDate": "2023"
+  },
+  {
+    "title": "The Swine",
+    "genre": "Horror",
+    "developerPublisher": "Vincent Lade",
+    "platform": "",
+    "releaseDate": "2020"
+  },
+  {
+    "title": "The Thing",
+    "genre": "First-person shooter/Third-person shooter, survival horror, Body horror",
+    "developerPublisher": "Computer Artworks",
+    "platform": "PlayStation 2, Windows, Xbox",
+    "releaseDate": "2002-08-21"
+  },
+  {
+    "title": "Terror T.R.A.X.: Track of the Vampire",
+    "genre": "Interactive Movie",
+    "developerPublisher": "Ground Zero Productions",
+    "platform": "Windows, Macintosh",
+    "releaseDate": "1995"
+  },
+  {
+    "title": "Teleglitch",
+    "genre": "Roguelike, top-down shooter",
+    "developerPublisher": "Test3 Projects",
+    "platform": "Windows, OS X, Linux",
+    "releaseDate": "2013"
+  },
+  {
+    "title": "Team Innocent: The Point of No Return",
+    "genre": "Adventure, survival horror, science fiction",
+    "developerPublisher": "Hudson Soft Company, Ltd.",
+    "platform": "PC-FX",
+    "releaseDate": "1994-12-23"
+  },
+  {
+    "title": "The Texas Chainsaw Massacre",
+    "genre": "Adventure",
+    "developerPublisher": "Wizard Video",
+    "platform": "Atari 2600",
+    "releaseDate": "1982"
+  },
+  {
+    "title": "The Texas Chain Saw Massacre",
+    "genre": "Survival horror",
+    "developerPublisher": "Sumo Nottingham",
+    "platform": "Microsoft Windows, Xbox One, Xbox Series X/S, PlayStation 4, PlayStation 5",
+    "releaseDate": "2023-08-18"
+  },
+  {
+    "title": "Through The Woods",
+    "genre": "Survival horror",
+    "developerPublisher": "Antagonist Games",
+    "platform": "Windows",
+    "releaseDate": "2016"
+  },
+  {
+    "title": "Til Morning's Light",
+    "genre": "Adventure, puzzle",
+    "developerPublisher": "WayForward Technologies, Amazon Game Studios",
+    "platform": "iOS, Android (operating system)",
+    "releaseDate": "2015-05-21"
+  },
+  {
+    "title": "Total Chaos",
+    "genre": "Survival, survival horror",
+    "developerPublisher": "Wadaholic",
+    "platform": "Windows",
+    "releaseDate": "2018-10-31"
+  },
+  {
+    "title": "Tokyo Twilight Busters",
+    "genre": "Adventure, point-and-click",
+    "developerPublisher": "Wolf Team",
+    "platform": "NEC PC-9801",
+    "releaseDate": "1995-06-23"
+  },
+  {
+    "title": "Tormented Souls",
+    "genre": "Psychological horror, survival horror",
+    "developerPublisher": "PQUBE",
+    "platform": "PS5, PS4, Xbox Series X, Xbox One, Nintendo Switch, Windows PC",
+    "releaseDate": "2021-08-27"
+  },
+  {
+    "title": "Tumbal: The Dark Offering",
+    "genre": "Sidescroller, psychological horror",
+    "developerPublisher": "PEStudio",
+    "platform": "iOS",
+    "releaseDate": "2016"
+  },
+  {
+    "title": "Twilight Syndrome: Kinjirareta Toshi Densetsu",
+    "genre": "Adventure",
+    "developerPublisher": "Spike",
+    "platform": "Nintendo DS",
+    "releaseDate": "2008-07-24"
+  },
+  {
+    "title": "Twilight Syndrome: Kyūmei-hen",
+    "genre": "Adventure",
+    "developerPublisher": "Human Entertainment",
+    "platform": "PlayStation",
+    "releaseDate": "1996-07-19"
+  },
+  {
+    "title": "Twilight Syndrome: Saikai",
+    "genre": "Adventure",
+    "developerPublisher": "Spike",
+    "platform": "PlayStation",
+    "releaseDate": "2000"
+  },
+  {
+    "title": "Twilight Syndrome: Tansaku-hen",
+    "genre": "Adventure",
+    "developerPublisher": "Human Entertainment",
+    "platform": "PlayStation",
+    "releaseDate": "1996-03-01"
+  },
+  {
+    "title": "Twisted Metal: Black",
+    "genre": "Vehicle combat",
+    "developerPublisher": "Incognito Entertainment",
+    "platform": "PlayStation 2, PlayStation 4",
+    "releaseDate": "2001-06-18"
+  },
+  {
+    "title": "The Horrors: Lost Tape",
+    "genre": "Survival horror",
+    "developerPublisher": "QuocMT",
+    "platform": "Windows",
+    "releaseDate": "2022-07-06"
+  },
+  {
+    "title": "Uninvited",
+    "genre": "point-and-click, adventure",
+    "developerPublisher": "ICOM Simulations",
+    "platform": "Apple IIGS, Amiga, Atari ST, Commodore 64, Macintosh, NES, Famicom, PC, Pocket PC",
+    "releaseDate": "1986"
+  },
+  {
+    "title": "Unforgiving: A Northern Hymn",
+    "genre": "Survival horror, adventure, stealth",
+    "developerPublisher": "Angry Demon Studio",
+    "platform": "Windows",
+    "releaseDate": "2017-11-27"
+  },
+  {
+    "title": "Until Dawn",
+    "genre": "Adventure",
+    "developerPublisher": "Supermassive Games",
+    "platform": "PlayStation 4",
+    "releaseDate": "2015-08-25"
+  },
+  {
+    "title": "Until Dawn: Rush of Blood",
+    "genre": "Rail shooter",
+    "developerPublisher": "Supermassive Games",
+    "platform": "PlayStation 4",
+    "releaseDate": "2016-10-13"
+  },
+  {
+    "title": "Unturned",
+    "genre": "Survival",
+    "developerPublisher": "Nelson Sexton",
+    "platform": "Windows, OS X",
+    "releaseDate": "2014-07-07"
+  },
+  {
+    "title": "Vaccine",
+    "genre": "Survival horror",
+    "developerPublisher": "RNC",
+    "platform": "Windows, Wii U, Nintendo Switch",
+    "releaseDate": "2017-01-21"
+  },
+  {
+    "title": "Vampire Killer",
+    "genre": "Platform game",
+    "developerPublisher": "Konami",
+    "platform": "MSX2, Wii U (Virtual Console)",
+    "releaseDate": "1986-10-30"
+  },
+  {
+    "title": "Vampire: The Masquerade - Bloodlines",
+    "genre": "action role-playing video game",
+    "developerPublisher": "Troika Games",
+    "platform": "Windows",
+    "releaseDate": "2004-11-16"
+  },
+  {
+    "title": "Vampire Rain",
+    "genre": "Survival horror, Stealth game",
+    "developerPublisher": "Artoon",
+    "platform": "Xbox 360, PlayStation 3",
+    "releaseDate": "2007"
+  },
+  {
+    "title": "The Void",
+    "genre": "Adventure",
+    "developerPublisher": "Ice-Pick Lodge",
+    "platform": "Windows",
+    "releaseDate": "2008-04-17"
+  },
+  {
+    "title": "VIGIL: Prophecy of the Bestowed",
+    "genre": "Survival horror",
+    "developerPublisher": "Residence of Evil, MoonGlint",
+    "platform": "Windows",
+    "releaseDate": "2019"
+  },
+  {
+    "title": "Virus : It's Aware",
+    "genre": "Third-person shooter",
+    "developerPublisher": "Cryo Interactive",
+    "platform": "Windows",
+    "releaseDate": "1999-12-07"
+  },
+  {
+    "title": "The Walking Dead",
+    "genre": "Graphic adventure game",
+    "developerPublisher": "Telltale Games",
+    "platform": "Multiple",
+    "releaseDate": "2012"
+  },
+  {
+    "title": "The Walking Dead: Survival Instinct",
+    "genre": "First-person shooter",
+    "developerPublisher": "Terminal Reality",
+    "platform": "Windows",
+    "releaseDate": "2013"
+  },
+  {
+    "title": "Overkill's The Walking Dead",
+    "genre": "First-person shooter",
+    "developerPublisher": "Overkill Software",
+    "platform": "Windows",
+    "releaseDate": "2018"
+  },
+  {
+    "title": "Walls Closing In",
+    "genre": "Survival horror, stealth",
+    "developerPublisher": "Scythe Dev Team",
+    "platform": "Windows",
+    "releaseDate": "2019-10-01"
+  },
+  {
+    "title": "Water Womb World",
+    "genre": "Point-and-click",
+    "developerPublisher": "Yames",
+    "platform": "Windows, macOS",
+    "releaseDate": "2020"
+  },
+  {
+    "title": "We Happy Few",
+    "genre": "Survival, stealth, open world",
+    "developerPublisher": "Compulsion Games",
+    "platform": "Windows, Xbox One",
+    "releaseDate": "2016"
+  },
+  {
+    "title": "White Day: A Labyrinth Named School",
+    "genre": "Adventure, supernatural horror",
+    "developerPublisher": "Sonnori",
+    "platform": "Windows",
+    "releaseDate": "2001"
+  },
+  {
+    "title": "White Day",
+    "genre": "Adventure, supernatural horror",
+    "developerPublisher": "ROI Games",
+    "platform": "Android, iOS, Windows, PlayStation 4",
+    "releaseDate": "2015-11-09"
+  },
+  {
+    "title": "White Night",
+    "genre": "Survival horror",
+    "developerPublisher": "Osome/Parallel Studio",
+    "platform": "Windows, Xbox One, PlayStation 4, OS X, Linux",
+    "releaseDate": "2015-03-03"
+  },
+  {
+    "title": "Witching Hour",
+    "genre": "Mystery",
+    "developerPublisher": "Vincent Lade",
+    "platform": "",
+    "releaseDate": "2022"
+  },
+  {
+    "title": "World of Horror",
+    "genre": "point-and-click, cosmic horror",
+    "developerPublisher": "Panstas",
+    "platform": "Windows",
+    "releaseDate": "2023"
+  },
+  {
+    "title": "World War Z",
+    "genre": "Third-person shooter, survival horror",
+    "developerPublisher": "Saber Interactive",
+    "platform": "Windows, PlayStation 4, Xbox One",
+    "releaseDate": "2019-04-16"
+  },
+  {
+    "title": "Return to Castle Wolfenstein",
+    "genre": "First-person shooter, supernatural horror, science fiction",
+    "developerPublisher": "Gray Matter Studios, Id Software",
+    "platform": "Windows, Linux, OS X, Xbox, PlayStation 2",
+    "releaseDate": "2001-11-19"
+  },
+  {
+    "title": "Wolfenstein",
+    "genre": "First-person shooter, supernatural horror, science fiction",
+    "developerPublisher": "Raven Software",
+    "platform": "Windows, PlayStation 3, Xbox 360",
+    "releaseDate": "2009-08-17"
+  },
+  {
+    "title": "Wolfenstein: The Old Blood",
+    "genre": "First-person shooter, supernatural horror",
+    "developerPublisher": "MachineGames",
+    "platform": "Windows, PlayStation 4, Xbox One",
+    "releaseDate": "2015-05-05"
+  },
+  {
+    "title": "Xenophobe",
+    "genre": "Run and gun",
+    "developerPublisher": "Bally Midway",
+    "platform": "Arcade, Nintendo Entertainment System",
+    "releaseDate": "1987"
+  },
+  {
+    "title": "The X-Files: Resist or Serve",
+    "genre": "Survival horror",
+    "developerPublisher": "Black Ops Entertainment",
+    "platform": "PlayStation 2",
+    "releaseDate": "2004-03-16"
+  },
+  {
+    "title": "Yuuyami Doori Tankentai",
+    "genre": "Adventure",
+    "developerPublisher": "Spike",
+    "platform": "PlayStation",
+    "releaseDate": "1999-10-07"
+  },
+  {
+    "title": "Yume Nikki",
+    "genre": "Psychological horror",
+    "developerPublisher": "Kikiyama",
+    "platform": "Windows",
+    "releaseDate": "2004-06-26"
+  },
+  {
+    "title": "Yuppie Psycho",
+    "genre": "Adventure",
+    "developerPublisher": "Baroque Decay",
+    "platform": "Windows",
+    "releaseDate": "2019-04-25"
+  },
+  {
+    "title": "You Are Empty",
+    "genre": "First-person shooter, alternate history",
+    "developerPublisher": "Mandel ArtPlains, Digital Spray Studios",
+    "platform": "Windows",
+    "releaseDate": "2006-10-27"
+  },
+  {
+    "title": "Zaphie",
+    "genre": "Point-and-click, adventure",
+    "developerPublisher": "MiraSpace Entertainment",
+    "platform": "Windows",
+    "releaseDate": "1999"
+  },
+  {
+    "title": "Zaphie 2",
+    "genre": "Survival horror, Third-person adventure",
+    "developerPublisher": "MiraSpace Entertainment",
+    "platform": "Windows",
+    "releaseDate": "2002-02-27"
+  },
+  {
+    "title": "Zero Tolerance",
+    "genre": "First-person shooter",
+    "developerPublisher": "Technopop",
+    "platform": "Genesis",
+    "releaseDate": "1994"
+  },
+  {
+    "title": "Zombie Raid",
+    "genre": "Rail Shooter",
+    "developerPublisher": "American Sammy",
+    "platform": "Arcade",
+    "releaseDate": "1995"
+  },
+  {
+    "title": "Zombie Revenge",
+    "genre": "Beat 'em up, shooter",
+    "developerPublisher": "Sega, Data East",
+    "platform": "Arcade, Dreamcast",
+    "releaseDate": "1999"
+  },
+  {
+    "title": "Zombi",
+    "genre": "First-person adventure, point-and-click",
+    "developerPublisher": "Ubi soft",
+    "platform": "Amstrad CPC, Amiga, Commodore 64",
+    "releaseDate": "1986"
+  },
+  {
+    "title": "ZombiU",
+    "genre": "First-person shooter, survival horror",
+    "developerPublisher": "Ubisoft Montreal",
+    "platform": "Wii U, Windows",
+    "releaseDate": "2012-11-18"
+  }
+]

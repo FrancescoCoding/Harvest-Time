@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "nodemon University-Timetable-Scraper.js",
     "plant": "nodemon Common-Plant-Names-Scraper.js",
-    "literature": "nodemon Historical-Publications-Scraper.js"
+    "literature": "nodemon Historical-Publications-Scraper.js",
+    "horror": "nodemon Horror-Games-List-Scraper.js"
   },
   "author": "",
   "license": "ISC",
